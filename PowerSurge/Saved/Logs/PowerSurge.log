@@ -1726,3 +1726,1004 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.23-00.51.11:673][861]AssetCheck: New page: Asset Save: multiple assets
 [2022.04.23-00.51.11:673][861]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Museum_BuiltData.Museum_BuiltData
 [2022.04.23-00.51.11:673][861]LogContentValidation: Display: Validating World /Game/Museum.Museum
+[2022.04.23-00.55.14:537][652]LogRenderer: Reallocating scene render targets to support 1096x492 Format 10 NumSamples 1 (Frame:56393).
+[2022.04.23-00.55.22:209][675]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.23-00.55.22:224][675]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-00.55.22:224][675]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-00.55.24:227][682]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4eec3b9f-2a52-48a5-83d5-68361c110571}.
+[2022.04.23-05.12.25:206][682]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.23-05.12.25:342][682]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-05.12.25:342][682]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-05.12.25:414][683]LogHttp: Warning: 0000024C12FD2B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B313B96FA-4809-3172-E5CD-1984A0EE062F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=08dddb534283c197bf5b7792a4e2c610%7C9f9ecd2ff39e4cfd9f46e69b8cbc0966%7C1bd42b1e-427e-4dec-8040-9b28b808ae65&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.23-05.12.25:415][683]LogHttp: Warning: 0000024C12FD2B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.04.23-05.12.25:415][683]LogHttp: Warning: 0000024C12FD2B00: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2022.04.23-05.12.25:415][683]LogHttp: Warning: 0000024C12FD2B00: libcurl info message cache 1 (Closing connection 0)
+[2022.04.23-05.12.25:415][683]LogHttp: Warning: 0000024C12FD2B00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.04.23-05.12.25:415][683]LogHttp: Warning: 0000024C12FD2B00: libcurl info message cache 3 (Closing connection 1)
+[2022.04.23-05.12.25:498][684]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B313B96FA-4809-3172-E5CD-1984A0EE062F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=08dddb534283c197bf5b7792a4e2c610%7C9f9ecd2ff39e4cfd9f46e69b8cbc0966%7C1bd42b1e-427e-4dec-8040-9b28b808ae65&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.23-05.12.33:015][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.04.23-05.12.33:018][705]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Museum' took 0.019
+[2022.04.23-05.12.33:019][705]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/powersurge_Mat] ([1] browsable assets)...
+[2022.04.23-05.12.33:019][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/powersurge_Mat]
+[2022.04.23-05.12.33:022][705]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/powersurge_Mat_Auto31E4E5EC44A2B1C88F97B7BAE437A9AEC.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/powersurge_Mat_Auto3.uasset'
+[2022.04.23-05.12.33:024][705]LogFileHelpers: Auto-saving content packages took 0.005
+[2022.04.23-05.41.28:684][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.23-05.41.28:827][987]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Museum52DE2D574FEEFFC1ECE7D1A325095D9C.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum.umap'
+[2022.04.23-05.41.28:849][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Museum_BuiltData" FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum_BuiltData.uasset" SILENT=true
+[2022.04.23-05.41.29:022][987]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Museum_BuiltDataCE2E8589464D9B236566FE955C01592C.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum_BuiltData.uasset'
+[2022.04.23-05.41.29:037][987]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.23-05.41.29:037][987]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Museum_BuiltData.Museum_BuiltData
+[2022.04.23-05.41.29:037][987]LogContentValidation: Display: Validating World /Game/Museum.Museum
+[2022.04.23-05.41.35:663][345]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.23-05.41.35:679][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-05.41.35:680][345]PIE: New page: PIE session: Museum (Apr 22, 2022, 9:41:35 PM)
+[2022.04.23-05.41.35:687][345]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.23-05.41.35:689][345]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.23-05.41.35:690][345]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Museum
+[2022.04.23-05.41.35:730][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039432s)
+[2022.04.23-05.41.35:732][345]LogAIModule: Creating AISystem for world Museum
+[2022.04.23-05.41.35:733][345]LogPlayLevel: PIE: World Init took: (0.003067s)
+[2022.04.23-05.41.35:734][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Museum.Museum to /Game/UEDPIE_0_Museum.Museum (0.043324s)
+[2022.04.23-05.41.35:741][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.04.23-05.41.35:744][345]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.23-05.41.35:744][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-05.41.35:744][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-05.41.35:744][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-05.41.35:744][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-05.41.35:744][345]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.23-05.41.35:744][345]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.23-05.41.35:744][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.23-05.41.35:744][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-05.41.35:745][345]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.23-05.41.35:745][345]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.23-05.41.35:745][345]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.23-05.41.35:745][345]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-05.41.35:749][345]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-05.41.35:749][345]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-05.41.35:759][345]LogAudioMixer: Display: Using Audio Device Sceptre C27 (NVIDIA High Definition Audio)
+[2022.04.23-05.41.35:759][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-05.41.35:759][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-05.41.35:760][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-05.41.35:760][345]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-05.41.35:760][345]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-05.41.35:760][345]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-05.41.35:761][345]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-05.41.35:761][345]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-05.41.35:761][345]LogInit: FAudioDevice initialized.
+[2022.04.23-05.41.35:761][345]LogAudio: Display: Audio Device (ID: 2) registered with world 'Museum'.
+[2022.04.23-05.41.35:777][345]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.23-05.41.35:793][345]LogWorld: Bringing World /Game/UEDPIE_0_Museum.Museum up for play (max tick rate 60) at 2022.04.23-01.41.35
+[2022.04.23-05.41.35:816][345]LogWorld: Bringing up level for play took: 0.030091
+[2022.04.23-05.41.35:820][345]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.04.23-05.41.35:829][345]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.23-05.41.35:843][345]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 20 classes and 0 folders.
+[2022.04.23-05.41.35:859][345]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.23-05.41.35:860][345]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.23-05.41.35:878][345]PIE: Server logged in
+[2022.04.23-05.41.35:880][345]PIE: Play in editor total start time 0.204 seconds.
+[2022.04.23-05.41.35:914][345]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.23-05.41.40:254][576]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Museum.Museum:PersistentLevel.Museum
+[2022.04.23-05.41.40:984][576]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 126 classes and 0 folders.
+[2022.04.23-05.41.48:525][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-05.41.48:525][938]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Museum
+[2022.04.23-05.41.48:526][938]LogWorld: UWorld::CleanupWorld for Museum, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-05.41.48:527][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-05.41.48:533][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-05.41.48:548][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-05.41.48:569][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-05.41.48:571][938]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.23-05.41.48:572][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-05.41.48:574][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-05.41.48:578][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-05.41.48:586][938]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.23-05.41.48:586][938]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.23-05.41.48:592][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.04.23-05.41.48:634][939]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.04.23-05.42.04:741][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.04.23-05.42.04:878][867]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Museum0FD04EB2454038CFADC369B9CE884679.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum.umap'
+[2022.04.23-05.42.04:895][867]LogFileHelpers: Saving map 'Museum' took 0.183
+[2022.04.23-05.42.04:915][867]AssetCheck: New page: Asset Save: Museum
+[2022.04.23-05.42.04:915][867]LogContentValidation: Display: Validating World /Game/Museum.Museum
+[2022.04.23-05.42.05:613][906]BlueprintLog: New page: Compile Museum
+[2022.04.23-05.42.05:664][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.04.23-05.42.06:139][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.04.23-05.42.06:262][928]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Museum2D7670414BC638909C03E3A38038E966.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum.umap'
+[2022.04.23-05.42.06:279][928]LogFileHelpers: Saving map 'Museum' took 0.163
+[2022.04.23-05.42.06:304][928]AssetCheck: New page: Asset Save: Museum
+[2022.04.23-05.42.06:304][928]LogContentValidation: Display: Validating World /Game/Museum.Museum
+[2022.04.23-05.42.07:045][967]LogSlate: Window 'Museum' being destroyed
+[2022.04.23-05.42.07:060][967]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-05.42.07:060][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-05.42.07:828][  7]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.23-05.42.07:836][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-05.42.07:836][  7]PIE: New page: PIE session: Museum (Apr 22, 2022, 9:42:07 PM)
+[2022.04.23-05.42.07:836][  7]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Museum
+[2022.04.23-05.42.07:870][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033573s)
+[2022.04.23-05.42.07:871][  7]LogAIModule: Creating AISystem for world Museum
+[2022.04.23-05.42.07:871][  7]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2022.04.23-05.42.07:871][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Museum.Museum to /Game/UEDPIE_0_Museum.Museum (0.034690s)
+[2022.04.23-05.42.07:893][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.04.23-05.42.07:894][  7]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.23-05.42.07:894][  7]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-05.42.07:894][  7]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-05.42.07:894][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-05.42.07:894][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-05.42.07:894][  7]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.23-05.42.07:894][  7]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.23-05.42.07:895][  7]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.23-05.42.07:895][  7]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-05.42.07:895][  7]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.23-05.42.07:895][  7]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.23-05.42.07:895][  7]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.23-05.42.07:895][  7]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-05.42.07:898][  7]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-05.42.07:898][  7]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-05.42.07:907][  7]LogAudioMixer: Display: Using Audio Device Sceptre C27 (NVIDIA High Definition Audio)
+[2022.04.23-05.42.07:907][  7]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-05.42.07:907][  7]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-05.42.07:907][  7]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-05.42.07:907][  7]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-05.42.07:908][  7]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-05.42.07:908][  7]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-05.42.07:908][  7]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-05.42.07:909][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-05.42.07:909][  7]LogInit: FAudioDevice initialized.
+[2022.04.23-05.42.07:909][  7]LogAudio: Display: Audio Device (ID: 3) registered with world 'Museum'.
+[2022.04.23-05.42.07:918][  7]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.23-05.42.07:925][  7]LogWorld: Bringing World /Game/UEDPIE_0_Museum.Museum up for play (max tick rate 60) at 2022.04.23-01.42.07
+[2022.04.23-05.42.07:926][  7]LogWorld: Bringing up level for play took: 0.006685
+[2022.04.23-05.42.07:930][  7]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.04.23-05.42.07:932][  7]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.23-05.42.07:935][  7]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.23-05.42.07:936][  7]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.23-05.42.07:937][  7]PIE: Server logged in
+[2022.04.23-05.42.07:937][  7]PIE: Play in editor total start time 0.102 seconds.
+[2022.04.23-05.42.07:948][  7]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.23-06.54.57:972][997]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4eec3b9f-2a52-48a5-83d5-68361c110571}.
+[2022.04.23-06.54.57:972][997]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4eec3b9f-2a52-48a5-83d5-68361c110571}.
+[2022.04.23-06.54.57:972][997]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.23-06.54.58:071][997]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-06.54.58:071][997]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-06.54.58:100][997]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.23-06.54.58:104][997]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-06.54.58:104][997]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-17.08.58:295][  5]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.23-17.08.58:350][  5]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-17.08.58:350][  5]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-17.08.58:384][  5]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.23-17.08.58:395][  5]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-17.08.58:395][  5]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-17.08.58:434][  6]LogHttp: Warning: 0000024C31340100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B313B96FA-4809-3172-E5CD-1984A0EE062F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=08dddb534283c197bf5b7792a4e2c610%7C9f9ecd2ff39e4cfd9f46e69b8cbc0966%7C1bd42b1e-427e-4dec-8040-9b28b808ae65&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.23-17.08.58:434][  6]LogHttp: Warning: 0000024C31340100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.04.23-17.08.58:434][  6]LogHttp: Warning: 0000024C31340100: libcurl info message cache 0 (Connection 2 seems to be dead!)
+[2022.04.23-17.08.58:434][  6]LogHttp: Warning: 0000024C31340100: libcurl info message cache 1 (Closing connection 2)
+[2022.04.23-17.08.58:434][  6]LogHttp: Warning: 0000024C31340100: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.04.23-17.08.58:434][  6]LogHttp: Warning: 0000024C31340100: libcurl info message cache 3 (Closing connection 3)
+[2022.04.23-17.08.58:435][  6]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B313B96FA-4809-3172-E5CD-1984A0EE062F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=08dddb534283c197bf5b7792a4e2c610%7C9f9ecd2ff39e4cfd9f46e69b8cbc0966%7C1bd42b1e-427e-4dec-8040-9b28b808ae65&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.23-17.09.04:769][ 22]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{91c67aa1-384c-49d0-a0f3-41fdf6409680}.
+[2022.04.23-17.09.04:769][ 22]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{91c67aa1-384c-49d0-a0f3-41fdf6409680}.
+[2022.04.23-17.09.04:769][ 22]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.23-17.09.05:231][ 22]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-17.09.05:231][ 22]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-17.09.05:295][ 22]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.23-17.09.05:311][ 22]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-17.09.05:312][ 22]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-17.10.42:598][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-17.10.42:598][431]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Museum
+[2022.04.23-17.10.42:602][431]LogWorld: UWorld::CleanupWorld for Museum, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-17.10.42:605][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-17.10.42:612][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-17.10.42:642][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-17.10.42:659][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-17.10.42:660][431]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.23-17.10.42:660][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-17.10.42:662][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-17.10.42:691][431]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.23-17.10.42:691][431]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.10.42:706][431]LogUObjectHash: Compacting FUObjectHashTables data took  13.38ms
+[2022.04.23-17.10.42:783][432]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.04.23-17.10.43:268][460]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.23-17.10.43:278][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-17.10.43:278][460]PIE: New page: PIE session: Museum (Apr 23, 2022, 9:10:43 AM)
+[2022.04.23-17.10.43:278][460]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Museum
+[2022.04.23-17.10.43:328][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049430s)
+[2022.04.23-17.10.43:329][460]LogAIModule: Creating AISystem for world Museum
+[2022.04.23-17.10.43:330][460]LogPlayLevel: PIE: World Init took: (0.002551s)
+[2022.04.23-17.10.43:330][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Museum.Museum to /Game/UEDPIE_0_Museum.Museum (0.052168s)
+[2022.04.23-17.10.43:349][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.04.23-17.10.43:350][460]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.23-17.10.43:350][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-17.10.43:350][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-17.10.43:350][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-17.10.43:350][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-17.10.43:350][460]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.23-17.10.43:350][460]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.23-17.10.43:350][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.23-17.10.43:350][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-17.10.43:351][460]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.23-17.10.43:351][460]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.23-17.10.43:351][460]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.23-17.10.43:352][460]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-17.10.43:355][460]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-17.10.43:355][460]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-17.10.43:364][460]LogAudioMixer: Display: Using Audio Device Sceptre C27 (NVIDIA High Definition Audio)
+[2022.04.23-17.10.43:365][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-17.10.43:365][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-17.10.43:365][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-17.10.43:366][460]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-17.10.43:366][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-17.10.43:366][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-17.10.43:367][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-17.10.43:367][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-17.10.43:367][460]LogInit: FAudioDevice initialized.
+[2022.04.23-17.10.43:367][460]LogAudio: Display: Audio Device (ID: 4) registered with world 'Museum'.
+[2022.04.23-17.10.43:376][460]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.23-17.10.43:382][460]LogWorld: Bringing World /Game/UEDPIE_0_Museum.Museum up for play (max tick rate 60) at 2022.04.23-13.10.43
+[2022.04.23-17.10.43:383][460]LogWorld: Bringing up level for play took: 0.006225
+[2022.04.23-17.10.43:389][460]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.04.23-17.10.43:391][460]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.23-17.10.43:393][460]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.10.43:394][460]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.10.43:396][460]PIE: Server logged in
+[2022.04.23-17.10.43:396][460]PIE: Play in editor total start time 0.12 seconds.
+[2022.04.23-17.10.43:414][460]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.23-17.10.44:185][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-17.10.44:185][492]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Museum
+[2022.04.23-17.10.44:185][492]LogWorld: UWorld::CleanupWorld for Museum, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-17.10.44:186][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-17.10.44:193][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-17.10.44:204][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-17.10.44:220][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-17.10.44:221][492]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.23-17.10.44:221][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-17.10.44:222][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-17.10.44:240][492]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.23-17.10.44:240][492]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.10.44:242][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.04.23-17.10.44:270][493]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.04.23-17.11.09:973][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x311)
+[2022.04.23-17.11.17:585][449]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.04.23-17.11.21:256][662]Cmd: DELETE
+[2022.04.23-17.11.21:257][662]Cmd: ACTOR DELETE
+[2022.04.23-17.11.21:267][662]LogEditorActor: Deleted Actor: PlayerStart
+[2022.04.23-17.11.21:287][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.04.23-17.11.21:291][662]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.04.23-17.11.22:453][730]MapCheck: New page: Map Check
+[2022.04.23-17.11.22:469][730]Cmd: MAP REBUILD ALLVISIBLE
+[2022.04.23-17.11.22:470][730]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.04.23-17.11.25:025][730]LogWorld: UWorld::CleanupWorld for Museum, bSessionEnded=true, bCleanupResources=false
+[2022.04.23-17.11.25:127][730]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.04.23-17.11.25:127][730]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.04.23-17.11.25:127][730]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.04.23-17.11.25:131][730]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.04.23-17.11.25:132][730]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2022.04.23-17.11.25:155][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.04.23-17.11.25:207][730]LogLevel: Display: Export Material TexCoord Scales took 0.051 seconds.
+[2022.04.23-17.11.25:215][730]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2022.04.23-17.11.25:235][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.04.23-17.11.25:237][730]LightingResults: New page: Lighting Build - Apr 23, 2022, 9:11:25 AM
+[2022.04.23-17.11.25:246][730]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.04.23-17.11.25:256][730]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.04.23-17.11.25:256][730]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.04.23-17.11.25:258][730]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.04.23-17.11.25:259][730]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18540
+[2022.04.23-17.11.29:834][730]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.04.23-17.11.29:836][730]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.04.23-17.11.29:836][730]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.04.23-17.11.29:836][730]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.04.23-17.11.29:836][730]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.04.23-17.11.29:836][730]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.04.23-17.11.29:949][730]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.04.23-17.11.29:950][730]MapCheck: New page: Museum - Apr 23, 2022, 9:11:29 AM
+[2022.04.23-17.11.29:950][730]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.04.23-17.11.29:950][730]MapCheck: Warning: music_Cue_0 Ambient sound actor has NULL Sound Cue property 
+[2022.04.23-17.11.29:951][730]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 1.031ms to complete.
+[2022.04.23-17.11.29:953][730]LogEditorBuildUtils: Build time 0:07
+[2022.04.23-17.11.30:052][730]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.23-17.11.30:052][730]LogShaderCompilers: Display: Total job queries 953, among them cache hits 746 (78.28%)
+[2022.04.23-17.11.30:052][730]LogShaderCompilers: Display: Tracking 173 distinct input hashes that result in 97 distinct outputs (56.07%)
+[2022.04.23-17.11.30:052][730]LogShaderCompilers: Display: RAM used: 2.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.24%
+[2022.04.23-17.11.30:052][730]LogShaderCompilers: Display: ================================================
+[2022.04.23-17.11.30:231][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.23-17.12.03:488][828]Job is a success!
+[2022.04.23-17.12.04:380][829]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.030s
+[2022.04.23-17.12.04:380][829]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.04.23-17.12.04:380][829]LogVolumetricLightmapImport:      BrickData (all levels) 1.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2022.04.23-17.12.04:380][829]LogVolumetricLightmapImport:      Bricks at depth
+[2022.04.23-17.12.04:380][829]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2022.04.23-17.12.04:380][829]LogVolumetricLightmapImport:          1: 6.2% covering 21.9% of volume
+[2022.04.23-17.12.04:380][829]LogVolumetricLightmapImport:          2: 93.3% covering 5.1% of volume
+[2022.04.23-17.12.04:380][829]LogVolumetricLightmapImport:      Bricks in each level
+[2022.04.23-17.12.04:380][829]LogVolumetricLightmapImport:          Museum 			 225 bricks 	 100.0% (Persistent Level)
+[2022.04.23-17.12.05:076][829]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-17.12.05:076][829]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.04.23-17.12.05:076][829]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.23-17.12.05:076][829]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-17.12.05:076][829]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 256X256)
+[2022.04.23-17.12.05:077][829]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-17.12.05:077][829]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2022.04.23-17.12.05:077][829]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-17.12.05:077][829]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 256X256)
+[2022.04.23-17.12.05:077][829]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2022.04.23-17.12.05:077][829]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.23-17.12.05:077][829]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.23-17.12.05:077][829]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-17.12.05:077][829]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-17.12.05:105][829]Lightmass on DESKTOP-V1PNENV: 34.2 sec total, 292 ms importing, 92 ms setup, 3.21 sec photons, 30.6 sec processing, 0 ms extra exporting [1252/1252 mappings]. Threads: 5:36 min total, 2:44 min processing.
+[2022.04.23-17.12.05:107][829]LogStaticLightingSystem: Museum_BuiltData storing lightmap data for 121 meshes in 4 LightmapResourceClusters (30.2 Meshes per cluster).
+[2022.04.23-17.12.05:142][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.04.23-17.12.05:174][829]LogStaticLightingSystem: Illumination: 39.5 sec (410 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.04.23-17.12.05:174][829]LogStaticLightingSystem: Lightmap texture memory:  6.1 MB (4.1 MB streaming, 2.0 MB non-streaming), 8 textures
+[2022.04.23-17.12.05:174][829]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.04.23-17.12.05:865][829]DumpUnbuiltLightIteractions
+[2022.04.23-17.12.05:865][829]Lights with unbuilt interactions: 0
+[2022.04.23-17.12.05:865][829]
+[2022.04.23-17.12.05:865][829]Primitives with unbuilt interactions: 0
+[2022.04.23-17.12.05:922][830]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.04.23-17.12.05:923][830]MapCheck: New page: Museum - Apr 23, 2022, 9:12:05 AM
+[2022.04.23-17.12.05:923][830]MapCheck: Warning: music_Cue_0 Ambient sound actor has NULL Sound Cue property 
+[2022.04.23-17.12.05:923][830]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.922ms to complete.
+[2022.04.23-17.20.43:738][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.23-17.20.43:871][377]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Museum_Auto4D08753E346DB3614239D5894B910FE75.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/Museum_Auto4.umap'
+[2022.04.23-17.20.43:873][377]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Museum' took 0.156
+[2022.04.23-17.20.43:873][377]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.156
+[2022.04.23-17.30.44:332][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.04.23-17.30.44:335][171]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Museum' took 0.026
+[2022.04.23-17.40.44:970][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.04.23-17.40.44:973][965]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Museum' took 0.029
+[2022.04.23-17.42.11:392][286]LogSlate: Window 'Message Log' being destroyed
+[2022.04.23-17.42.11:400][286]LogSlate: Window 'Message Log' being destroyed
+[2022.04.23-17.42.16:294][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.04.23-17.42.19:627][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x311)
+[2022.04.23-17.42.30:012][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x336)
+[2022.04.23-17.43.00:806][226]MapCheck: New page: Map Check
+[2022.04.23-17.43.00:823][226]Cmd: MAP REBUILD ALLVISIBLE
+[2022.04.23-17.43.00:823][226]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.04.23-17.43.03:981][226]LogWorld: UWorld::CleanupWorld for Museum, bSessionEnded=true, bCleanupResources=false
+[2022.04.23-17.43.04:069][226]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.04.23-17.43.04:069][226]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.04.23-17.43.04:069][226]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.04.23-17.43.04:072][226]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.04.23-17.43.04:072][226]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2022.04.23-17.43.04:095][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.04.23-17.43.04:122][226]LogLevel: Display: Export Material TexCoord Scales took 0.024 seconds.
+[2022.04.23-17.43.04:127][226]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2022.04.23-17.43.04:146][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.04.23-17.43.04:148][226]LightingResults: New page: Lighting Build - Apr 23, 2022, 9:43:04 AM
+[2022.04.23-17.43.04:156][226]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.04.23-17.43.04:159][226]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.04.23-17.43.04:159][226]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.04.23-17.43.04:160][226]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.04.23-17.43.04:160][226]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18540
+[2022.04.23-17.43.09:316][226]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.04.23-17.43.09:319][226]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.04.23-17.43.09:319][226]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.04.23-17.43.09:319][226]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.04.23-17.43.09:319][226]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.04.23-17.43.09:319][226]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.04.23-17.43.09:443][226]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.04.23-17.43.09:444][226]MapCheck: New page: Museum - Apr 23, 2022, 9:43:09 AM
+[2022.04.23-17.43.09:444][226]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.04.23-17.43.09:444][226]MapCheck: Warning: music_Cue_0 Ambient sound actor has NULL Sound Cue property 
+[2022.04.23-17.43.09:445][226]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 1.108ms to complete.
+[2022.04.23-17.43.09:447][226]LogEditorBuildUtils: Build time 0:08
+[2022.04.23-17.43.09:532][226]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.23-17.43.09:532][226]LogShaderCompilers: Display: Total job queries 953, among them cache hits 746 (78.28%)
+[2022.04.23-17.43.09:532][226]LogShaderCompilers: Display: Tracking 173 distinct input hashes that result in 97 distinct outputs (56.07%)
+[2022.04.23-17.43.09:532][226]LogShaderCompilers: Display: RAM used: 2.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.24%
+[2022.04.23-17.43.09:532][226]LogShaderCompilers: Display: ================================================
+[2022.04.23-17.43.09:710][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.04.23-17.43.53:491][435]Job is a success!
+[2022.04.23-17.43.54:063][436]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.030s
+[2022.04.23-17.43.54:064][436]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.04.23-17.43.54:064][436]LogVolumetricLightmapImport:      BrickData (all levels) 1.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.04.23-17.43.54:064][436]LogVolumetricLightmapImport:      Bricks at depth
+[2022.04.23-17.43.54:064][436]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2022.04.23-17.43.54:064][436]LogVolumetricLightmapImport:          1: 6.2% covering 21.9% of volume
+[2022.04.23-17.43.54:064][436]LogVolumetricLightmapImport:          2: 93.4% covering 5.2% of volume
+[2022.04.23-17.43.54:064][436]LogVolumetricLightmapImport:      Bricks in each level
+[2022.04.23-17.43.54:064][436]LogVolumetricLightmapImport:          Museum 			 226 bricks 	 100.0% (Persistent Level)
+[2022.04.23-17.43.54:818][436]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-17.43.54:818][436]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.04.23-17.43.54:819][436]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.23-17.43.54:819][436]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-17.43.54:819][436]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-17.43.54:819][436]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 256X256)
+[2022.04.23-17.43.54:819][436]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2022.04.23-17.43.54:819][436]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2022.04.23-17.43.54:819][436]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 256X256)
+[2022.04.23-17.43.54:821][436]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-17.43.54:821][436]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.23-17.43.54:821][436]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-17.43.54:821][436]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-17.43.54:821][436]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.23-17.43.54:856][436]Lightmass on DESKTOP-V1PNENV: 44.4 sec total, 340 ms importing, 91 ms setup, 3.60 sec photons, 40.3 sec processing, 0 ms extra exporting [1252/1252 mappings]. Threads: 7:24 min total, 3:42 min processing.
+[2022.04.23-17.43.54:859][436]LogStaticLightingSystem: Museum_BuiltData storing lightmap data for 121 meshes in 4 LightmapResourceClusters (30.2 Meshes per cluster).
+[2022.04.23-17.43.54:898][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.04.23-17.43.54:931][436]LogStaticLightingSystem: Illumination: 50.4 sec (483 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.04.23-17.43.54:931][436]LogStaticLightingSystem: Lightmap texture memory:  6.1 MB (4.1 MB streaming, 2.0 MB non-streaming), 8 textures
+[2022.04.23-17.43.54:931][436]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.04.23-17.43.55:365][436]DumpUnbuiltLightIteractions
+[2022.04.23-17.43.55:365][436]Lights with unbuilt interactions: 0
+[2022.04.23-17.43.55:365][436]
+[2022.04.23-17.43.55:365][436]Primitives with unbuilt interactions: 0
+[2022.04.23-17.43.55:424][437]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.04.23-17.43.55:424][437]MapCheck: New page: Museum - Apr 23, 2022, 9:43:55 AM
+[2022.04.23-17.43.55:425][437]MapCheck: Warning: music_Cue_0 Ambient sound actor has NULL Sound Cue property 
+[2022.04.23-17.43.55:425][437]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.05ms to complete.
+[2022.04.23-17.44.57:578][723]LogSlate: Window 'Message Log' being destroyed
+[2022.04.23-17.44.57:585][723]LogSlate: Window 'Message Log' being destroyed
+[2022.04.23-17.45.26:354][449]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.04.23-17.45.27:029][488]Cmd: DELETE
+[2022.04.23-17.45.27:029][488]Cmd: ACTOR DELETE
+[2022.04.23-17.45.27:039][488]LogEditorActor: Deleted Actor: DirectionalLight
+[2022.04.23-17.45.27:060][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.04.23-17.45.27:064][488]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.04.23-17.45.36:723][ 68]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2022.04.23-17.45.40:843][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x315)
+[2022.04.23-17.45.51:890][905]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2022.04.23-17.45.52:707][953]Cmd: DELETE
+[2022.04.23-17.45.52:707][953]Cmd: ACTOR DELETE
+[2022.04.23-17.45.52:715][953]LogEditorActor: Deleted Actor: AtmosphericFog
+[2022.04.23-17.45.52:735][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.04.23-17.45.52:739][953]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.04.23-17.46.02:005][508]MapCheck: New page: Map Check
+[2022.04.23-17.46.02:018][508]Cmd: MAP REBUILD ALLVISIBLE
+[2022.04.23-17.46.02:018][508]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.04.23-17.46.05:286][508]LogWorld: UWorld::CleanupWorld for Museum, bSessionEnded=true, bCleanupResources=false
+[2022.04.23-17.46.05:356][508]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.04.23-17.46.05:356][508]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.04.23-17.46.05:356][508]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.04.23-17.46.05:358][508]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.04.23-17.46.05:358][508]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2022.04.23-17.46.05:384][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.23-17.46.05:427][508]LogLevel: Display: Export Material TexCoord Scales took 0.042 seconds.
+[2022.04.23-17.46.05:433][508]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2022.04.23-17.46.05:452][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.04.23-17.46.05:455][508]LightingResults: New page: Lighting Build - Apr 23, 2022, 9:46:05 AM
+[2022.04.23-17.46.05:463][508]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.04.23-17.46.05:466][508]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.04.23-17.46.05:467][508]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.04.23-17.46.05:467][508]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.04.23-17.46.05:467][508]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18540
+[2022.04.23-17.46.14:579][508]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.04.23-17.46.14:580][508]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.04.23-17.46.14:580][508]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.04.23-17.46.14:580][508]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.04.23-17.46.14:580][508]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.04.23-17.46.14:580][508]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.04.23-17.46.14:706][508]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.04.23-17.46.14:706][508]MapCheck: New page: Museum - Apr 23, 2022, 9:46:14 AM
+[2022.04.23-17.46.14:706][508]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.04.23-17.46.14:707][508]MapCheck: Warning: music_Cue_0 Ambient sound actor has NULL Sound Cue property 
+[2022.04.23-17.46.14:707][508]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 1.173ms to complete.
+[2022.04.23-17.46.14:710][508]LogEditorBuildUtils: Build time 0:12
+[2022.04.23-17.46.14:783][508]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.23-17.46.14:783][508]LogShaderCompilers: Display: Total job queries 953, among them cache hits 746 (78.28%)
+[2022.04.23-17.46.14:783][508]LogShaderCompilers: Display: Tracking 173 distinct input hashes that result in 97 distinct outputs (56.07%)
+[2022.04.23-17.46.14:783][508]LogShaderCompilers: Display: RAM used: 2.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.24%
+[2022.04.23-17.46.14:783][508]LogShaderCompilers: Display: ================================================
+[2022.04.23-17.46.14:912][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.23-17.46.56:898][627]Job is a success!
+[2022.04.23-17.46.57:477][628]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.036s
+[2022.04.23-17.46.57:477][628]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.04.23-17.46.57:477][628]LogVolumetricLightmapImport:      BrickData (all levels) 0.6Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2022.04.23-17.46.57:477][628]LogVolumetricLightmapImport:      Bricks at depth
+[2022.04.23-17.46.57:477][628]LogVolumetricLightmapImport:          0: 0.7% covering 100.0% of volume
+[2022.04.23-17.46.57:477][628]LogVolumetricLightmapImport:          1: 10.1% covering 21.9% of volume
+[2022.04.23-17.46.57:477][628]LogVolumetricLightmapImport:          2: 89.1% covering 3.0% of volume
+[2022.04.23-17.46.57:477][628]LogVolumetricLightmapImport:      Bricks in each level
+[2022.04.23-17.46.57:477][628]LogVolumetricLightmapImport:          Museum 			 138 bricks 	 100.0% (Persistent Level)
+[2022.04.23-17.46.58:376][628]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-17.46.58:376][628]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.04.23-17.46.58:377][628]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.23-17.46.58:377][628]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-17.46.58:377][628]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-17.46.58:377][628]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2022.04.23-17.46.58:377][628]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-17.46.58:377][628]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2022.04.23-17.46.58:377][628]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.23-17.46.58:377][628]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.23-17.46.58:377][628]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-17.46.58:377][628]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-17.46.58:412][628]Lightmass on DESKTOP-V1PNENV: 42.7 sec total, 345 ms importing, 82 ms setup, 3.45 sec photons, 38.8 sec processing, 0 ms extra exporting [1252/1252 mappings]. Threads: 7:07 min total, 3:40 min processing.
+[2022.04.23-17.46.58:414][628]LogStaticLightingSystem: Museum_BuiltData storing lightmap data for 121 meshes in 3 LightmapResourceClusters (40.3 Meshes per cluster).
+[2022.04.23-17.46.58:457][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.04.23-17.46.58:492][628]LogStaticLightingSystem: Illumination: 52.6 sec (524 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.04.23-17.46.58:492][628]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (4.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2022.04.23-17.46.58:492][628]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.04.23-17.46.58:620][628]DumpUnbuiltLightIteractions
+[2022.04.23-17.46.58:620][628]Lights with unbuilt interactions: 0
+[2022.04.23-17.46.58:620][628]
+[2022.04.23-17.46.58:620][628]Primitives with unbuilt interactions: 0
+[2022.04.23-17.46.58:673][629]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.04.23-17.46.58:673][629]MapCheck: New page: Museum - Apr 23, 2022, 9:46:58 AM
+[2022.04.23-17.46.58:674][629]MapCheck: Warning: music_Cue_0 Ambient sound actor has NULL Sound Cue property 
+[2022.04.23-17.46.58:674][629]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.85ms to complete.
+[2022.04.23-17.50.48:450][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.04.23-17.50.48:591][315]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Museum_Auto58AA7BC66431BB1B501F630ADE3238026.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/Museum_Auto5.umap'
+[2022.04.23-17.50.48:593][315]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Museum' took 0.164
+[2022.04.23-17.50.48:593][315]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.164
+[2022.04.23-17.53.45:426][906]LogSlate: Window 'Message Log' being destroyed
+[2022.04.23-17.53.45:434][906]LogSlate: Window 'Message Log' being destroyed
+[2022.04.23-17.54.01:673][877]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.23-17.54.01:680][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-17.54.01:680][877]PIE: New page: PIE session: Museum (Apr 23, 2022, 9:54:01 AM)
+[2022.04.23-17.54.01:681][877]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Museum
+[2022.04.23-17.54.01:762][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080457s)
+[2022.04.23-17.54.01:763][877]LogAIModule: Creating AISystem for world Museum
+[2022.04.23-17.54.01:763][877]LogPlayLevel: PIE: World Init took: (0.001569s)
+[2022.04.23-17.54.01:763][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Museum.Museum to /Game/UEDPIE_0_Museum.Museum (0.082426s)
+[2022.04.23-17.54.01:783][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.04.23-17.54.01:786][877]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.23-17.54.01:786][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-17.54.01:786][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-17.54.01:786][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-17.54.01:786][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-17.54.01:786][877]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.23-17.54.01:786][877]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.23-17.54.01:786][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.23-17.54.01:786][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-17.54.01:787][877]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.23-17.54.01:787][877]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.23-17.54.01:787][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.23-17.54.01:787][877]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-17.54.01:790][877]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-17.54.01:791][877]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-17.54.01:799][877]LogAudioMixer: Display: Using Audio Device Sceptre C27 (NVIDIA High Definition Audio)
+[2022.04.23-17.54.01:799][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-17.54.01:799][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-17.54.01:799][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-17.54.01:800][877]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-17.54.01:800][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-17.54.01:800][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-17.54.01:801][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-17.54.01:801][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-17.54.01:801][877]LogInit: FAudioDevice initialized.
+[2022.04.23-17.54.01:801][877]LogAudio: Display: Audio Device (ID: 5) registered with world 'Museum'.
+[2022.04.23-17.54.01:813][877]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.23-17.54.01:820][877]LogWorld: Bringing World /Game/UEDPIE_0_Museum.Museum up for play (max tick rate 60) at 2022.04.23-13.54.01
+[2022.04.23-17.54.01:821][877]LogWorld: Bringing up level for play took: 0.006296
+[2022.04.23-17.54.01:824][877]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.04.23-17.54.01:826][877]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.23-17.54.01:828][877]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.54.01:829][877]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.54.01:830][877]PIE: Server logged in
+[2022.04.23-17.54.01:831][877]PIE: Play in editor total start time 0.151 seconds.
+[2022.04.23-17.54.01:846][877]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.23-17.54.05:427][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-17.54.05:427][ 87]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Museum
+[2022.04.23-17.54.05:427][ 87]LogWorld: UWorld::CleanupWorld for Museum, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-17.54.05:428][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-17.54.05:439][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-17.54.05:442][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-17.54.05:459][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-17.54.05:460][ 87]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.23-17.54.05:460][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-17.54.05:461][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-17.54.05:465][ 87]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.23-17.54.05:465][ 87]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.54.05:468][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.04.23-17.54.05:541][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.04.23-17.54.10:825][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.04.23-17.54.11:675][454]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.04.23-17.54.12:792][518]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.23-17.54.13:636][566]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.23-17.54.13:645][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-17.54.13:645][566]PIE: New page: PIE session: Museum (Apr 23, 2022, 9:54:13 AM)
+[2022.04.23-17.54.13:645][566]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Museum
+[2022.04.23-17.54.13:677][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032113s)
+[2022.04.23-17.54.13:678][566]LogAIModule: Creating AISystem for world Museum
+[2022.04.23-17.54.13:678][566]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2022.04.23-17.54.13:678][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Museum.Museum to /Game/UEDPIE_0_Museum.Museum (0.033268s)
+[2022.04.23-17.54.13:697][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.04.23-17.54.13:698][566]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.23-17.54.13:699][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-17.54.13:699][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-17.54.13:699][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-17.54.13:699][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-17.54.13:699][566]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.23-17.54.13:699][566]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.23-17.54.13:699][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.23-17.54.13:699][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-17.54.13:699][566]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.23-17.54.13:699][566]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.23-17.54.13:699][566]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.23-17.54.13:699][566]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-17.54.13:702][566]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-17.54.13:702][566]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-17.54.13:710][566]LogAudioMixer: Display: Using Audio Device Sceptre C27 (NVIDIA High Definition Audio)
+[2022.04.23-17.54.13:711][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-17.54.13:711][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-17.54.13:711][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-17.54.13:711][566]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-17.54.13:711][566]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-17.54.13:711][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-17.54.13:712][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-17.54.13:712][566]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-17.54.13:712][566]LogInit: FAudioDevice initialized.
+[2022.04.23-17.54.13:712][566]LogAudio: Display: Audio Device (ID: 6) registered with world 'Museum'.
+[2022.04.23-17.54.13:723][566]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.23-17.54.13:728][566]LogWorld: Bringing World /Game/UEDPIE_0_Museum.Museum up for play (max tick rate 60) at 2022.04.23-13.54.13
+[2022.04.23-17.54.13:728][566]LogWorld: Bringing up level for play took: 0.004564
+[2022.04.23-17.54.13:732][566]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.04.23-17.54.13:734][566]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.23-17.54.13:735][566]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.54.13:735][566]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.54.13:737][566]PIE: Server logged in
+[2022.04.23-17.54.13:737][566]PIE: Play in editor total start time 0.093 seconds.
+[2022.04.23-17.54.13:748][566]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.23-17.54.14:697][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-17.54.14:697][620]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Museum
+[2022.04.23-17.54.14:697][620]LogWorld: UWorld::CleanupWorld for Museum, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-17.54.14:698][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-17.54.14:708][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-17.54.14:721][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-17.54.14:738][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-17.54.14:739][620]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.23-17.54.14:739][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-17.54.14:740][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-17.54.14:744][620]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.23-17.54.14:744][620]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.54.14:746][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.04.23-17.54.14:776][621]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.04.23-17.54.20:369][954]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.23-17.54.23:590][144]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.23-17.54.23:597][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-17.54.23:597][144]PIE: New page: PIE session: Museum (Apr 23, 2022, 9:54:23 AM)
+[2022.04.23-17.54.23:636][144]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Museum
+[2022.04.23-17.54.23:667][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031147s)
+[2022.04.23-17.54.23:668][144]LogAIModule: Creating AISystem for world Museum
+[2022.04.23-17.54.23:669][144]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2022.04.23-17.54.23:669][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Museum.Museum to /Game/UEDPIE_0_Museum.Museum (0.032460s)
+[2022.04.23-17.54.23:688][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.04.23-17.54.23:690][144]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.04.23-17.54.23:690][144]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-17.54.23:690][144]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-17.54.23:690][144]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-17.54.23:690][144]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-17.54.23:690][144]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.23-17.54.23:690][144]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.23-17.54.23:690][144]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.23-17.54.23:690][144]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-17.54.23:690][144]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.23-17.54.23:690][144]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.23-17.54.23:690][144]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.23-17.54.23:690][144]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-17.54.23:693][144]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-17.54.23:693][144]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-17.54.23:702][144]LogAudioMixer: Display: Using Audio Device Sceptre C27 (NVIDIA High Definition Audio)
+[2022.04.23-17.54.23:703][144]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-17.54.23:703][144]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-17.54.23:703][144]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-17.54.23:703][144]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-17.54.23:703][144]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-17.54.23:703][144]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-17.54.23:704][144]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-17.54.23:704][144]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-17.54.23:704][144]LogInit: FAudioDevice initialized.
+[2022.04.23-17.54.23:704][144]LogAudio: Display: Audio Device (ID: 7) registered with world 'Museum'.
+[2022.04.23-17.54.23:711][144]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.23-17.54.23:717][144]LogWorld: Bringing World /Game/UEDPIE_0_Museum.Museum up for play (max tick rate 60) at 2022.04.23-13.54.23
+[2022.04.23-17.54.23:718][144]LogWorld: Bringing up level for play took: 0.005500
+[2022.04.23-17.54.23:721][144]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.04.23-17.54.23:723][144]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.23-17.54.23:724][144]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.54.23:725][144]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.54.23:726][144]PIE: Server logged in
+[2022.04.23-17.54.23:726][144]PIE: Play in editor total start time 0.13 seconds.
+[2022.04.23-17.54.23:737][144]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.23-17.54.24:977][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-17.54.24:977][210]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Museum
+[2022.04.23-17.54.24:977][210]LogWorld: UWorld::CleanupWorld for Museum, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-17.54.24:978][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-17.54.24:983][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-17.54.24:996][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-17.54.25:013][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-17.54.25:014][210]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.23-17.54.25:014][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-17.54.25:015][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-17.54.25:019][210]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.23-17.54.25:019][210]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.54.25:021][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.04.23-17.54.25:061][212]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.04.23-17.54.30:791][553]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.23-17.55.19:216][431]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.23-17.55.24:079][695]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.04.23-17.55.24:854][739]Cmd: DELETE
+[2022.04.23-17.55.24:854][739]Cmd: ACTOR DELETE
+[2022.04.23-17.55.24:863][739]LogEditorActor: Deleted Actor: PlayerStart
+[2022.04.23-17.55.24:884][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.04.23-17.55.24:890][739]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.04.23-17.55.29:493][ 15]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (NewLevelSequence)
+[2022.04.23-17.55.30:165][ 52]Cmd: DELETE
+[2022.04.23-17.55.30:165][ 52]Cmd: ACTOR DELETE
+[2022.04.23-17.55.31:239][ 52]LogSlate: Window 'Message' being destroyed
+[2022.04.23-17.55.31:246][ 52]Message dialog closed, result: Yes, title: Message, text: Actor NewLevelSequence is referenced by the level blueprint and other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+NewLevelSequence
+(Soft) Object /Game/NewLevelSequence.NewLevelSequence
+[2022.04.23-17.55.31:247][ 52]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2022.04.23-17.55.31:270][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.04.23-17.55.31:271][ 52]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.04.23-17.55.32:189][103]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.23-17.55.32:196][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-17.55.32:196][103]PIE: New page: PIE session: Museum (Apr 23, 2022, 9:55:32 AM)
+[2022.04.23-17.55.32:226][103]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Museum
+[2022.04.23-17.55.32:258][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031691s)
+[2022.04.23-17.55.32:259][103]LogAIModule: Creating AISystem for world Museum
+[2022.04.23-17.55.32:259][103]LogPlayLevel: PIE: World Init took: (0.001055s)
+[2022.04.23-17.55.32:259][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Museum.Museum to /Game/UEDPIE_0_Museum.Museum (0.032927s)
+[2022.04.23-17.55.32:278][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.23-17.55.32:279][103]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.04.23-17.55.32:279][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-17.55.32:279][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-17.55.32:279][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-17.55.32:279][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-17.55.32:279][103]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.23-17.55.32:279][103]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.23-17.55.32:279][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.23-17.55.32:279][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-17.55.32:279][103]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.23-17.55.32:280][103]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.23-17.55.32:280][103]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.23-17.55.32:280][103]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-17.55.32:283][103]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-17.55.32:283][103]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-17.55.32:293][103]LogAudioMixer: Display: Using Audio Device Sceptre C27 (NVIDIA High Definition Audio)
+[2022.04.23-17.55.32:293][103]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-17.55.32:293][103]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-17.55.32:293][103]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-17.55.32:294][103]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-17.55.32:294][103]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-17.55.32:294][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-17.55.32:295][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-17.55.32:295][103]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-17.55.32:295][103]LogInit: FAudioDevice initialized.
+[2022.04.23-17.55.32:295][103]LogAudio: Display: Audio Device (ID: 8) registered with world 'Museum'.
+[2022.04.23-17.55.32:302][103]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.23-17.55.32:307][103]LogWorld: Bringing World /Game/UEDPIE_0_Museum.Museum up for play (max tick rate 60) at 2022.04.23-13.55.32
+[2022.04.23-17.55.32:308][103]LogWorld: Bringing up level for play took: 0.004690
+[2022.04.23-17.55.32:312][103]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.04.23-17.55.32:314][103]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.23-17.55.32:315][103]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.55.32:316][103]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.55.32:317][103]PIE: Server logged in
+[2022.04.23-17.55.32:317][103]PIE: Play in editor total start time 0.121 seconds.
+[2022.04.23-17.55.32:327][103]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.23-17.55.33:247][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-17.55.33:247][155]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Museum
+[2022.04.23-17.55.33:247][155]LogWorld: UWorld::CleanupWorld for Museum, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-17.55.33:248][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-17.55.33:270][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-17.55.33:274][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-17.55.33:292][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-17.55.33:293][155]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.23-17.55.33:293][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-17.55.33:294][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-17.55.33:298][155]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.23-17.55.33:298][155]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.55.33:301][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.04.23-17.55.33:331][156]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.04.23-17.55.40:671][581]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.23-17.55.40:679][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-17.55.40:680][581]PIE: New page: PIE session: Museum (Apr 23, 2022, 9:55:40 AM)
+[2022.04.23-17.55.40:716][581]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Museum
+[2022.04.23-17.55.40:748][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031877s)
+[2022.04.23-17.55.40:749][581]LogAIModule: Creating AISystem for world Museum
+[2022.04.23-17.55.40:749][581]LogPlayLevel: PIE: World Init took: (0.001400s)
+[2022.04.23-17.55.40:749][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Museum.Museum to /Game/UEDPIE_0_Museum.Museum (0.033498s)
+[2022.04.23-17.55.40:769][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.04.23-17.55.40:771][581]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.04.23-17.55.40:771][581]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-17.55.40:771][581]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-17.55.40:771][581]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-17.55.40:771][581]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-17.55.40:771][581]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.23-17.55.40:771][581]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.23-17.55.40:771][581]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.23-17.55.40:771][581]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-17.55.40:772][581]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.23-17.55.40:772][581]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.23-17.55.40:772][581]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.23-17.55.40:772][581]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-17.55.40:775][581]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-17.55.40:775][581]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-17.55.40:785][581]LogAudioMixer: Display: Using Audio Device Sceptre C27 (NVIDIA High Definition Audio)
+[2022.04.23-17.55.40:785][581]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-17.55.40:785][581]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-17.55.40:785][581]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-17.55.40:785][581]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-17.55.40:785][581]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-17.55.40:785][581]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-17.55.40:786][581]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-17.55.40:786][581]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-17.55.40:786][581]LogInit: FAudioDevice initialized.
+[2022.04.23-17.55.40:786][581]LogAudio: Display: Audio Device (ID: 9) registered with world 'Museum'.
+[2022.04.23-17.55.40:792][581]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.23-17.55.40:802][581]LogWorld: Bringing World /Game/UEDPIE_0_Museum.Museum up for play (max tick rate 60) at 2022.04.23-13.55.40
+[2022.04.23-17.55.40:803][581]LogWorld: Bringing up level for play took: 0.008671
+[2022.04.23-17.55.40:807][581]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.04.23-17.55.40:809][581]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.23-17.55.40:810][581]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.55.40:811][581]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.55.40:812][581]PIE: Server logged in
+[2022.04.23-17.55.40:813][581]PIE: Play in editor total start time 0.133 seconds.
+[2022.04.23-17.55.40:826][581]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.23-17.59.52:997][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-17.59.52:997][196]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Museum
+[2022.04.23-17.59.52:997][196]LogWorld: UWorld::CleanupWorld for Museum, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-17.59.52:998][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-17.59.53:009][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-17.59.53:023][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-17.59.53:042][196]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-17.59.53:042][196]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.23-17.59.53:042][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-17.59.53:043][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-17.59.53:047][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-17.59.53:048][196]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.23-17.59.53:048][196]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.23-17.59.53:051][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.04.23-17.59.53:094][197]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.04.23-17.59.57:672][413]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight10)
+[2022.04.23-18.00.10:803][174]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight11)
+[2022.04.23-18.00.30:685][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2022.04.23-18.00.49:954][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.04.23-18.00.51:445][474]LogSlate: Window 'Save Content' being destroyed
+[2022.04.23-18.00.51:497][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LightsOut" FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/LightsOut.uasset" SILENT=true
+[2022.04.23-18.00.51:702][474]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/LightsOut7EC3499E499F88E3BB52F6A2DB52CDCD.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/LightsOut.uasset'
+[2022.04.23-18.00.51:730][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.23-18.00.51:879][474]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Museum9F05828046AE071B7056248F3FE0E07B.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum.umap'
+[2022.04.23-18.00.51:896][474]LogFileHelpers: Saving map 'Museum' took 0.184
+[2022.04.23-18.00.51:896][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Museum_BuiltData" FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum_BuiltData.uasset" SILENT=true
+[2022.04.23-18.00.52:103][474]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Museum_BuiltDataD189C99F4DFF983646208AB98B60291B.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum_BuiltData.uasset'
+[2022.04.23-18.00.52:106][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/powersurge" FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/powersurge.uasset" SILENT=true
+[2022.04.23-18.00.52:128][474]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/powersurgeF08626744B66906A2C5B7BA11515D3E0.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/powersurge.uasset'
+[2022.04.23-18.00.52:130][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/powersurge_Mat" FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/powersurge_Mat.uasset" SILENT=true
+[2022.04.23-18.00.52:131][474]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/powersurge_Mat9BE7E7574C8A86C764AD98AD66892258.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/powersurge_Mat.uasset'
+[2022.04.23-18.00.52:261][474]LogLinker: Warning: [AssetLog] C:\Users\Maximo\Documents\work and school\ECE-310\Github Desktop\PowerSurge\PowerSurge\Content\Minimal_Default.umap: Failed to load '/Game/Minimal_Default_BuiltData': Can't find file.
+[2022.04.23-18.00.52:262][474]LogLinker: Warning: [AssetLog] C:\Users\Maximo\Documents\work and school\ECE-310\Github Desktop\PowerSurge\PowerSurge\Content\Minimal_Default.umap: Failed to load '/Game/Minimal_Default_BuiltData': Can't find file.
+[2022.04.23-18.00.52:281][474]LogLinker: Warning: [AssetLog] C:\Users\Maximo\Documents\work and school\ECE-310\Github Desktop\PowerSurge\PowerSurge\Content\Minimal_Default.umap: Failed to load '/Game/Minimal_Default_BuiltData': Can't find file.
+[2022.04.23-18.00.52:290][474]LogLinker: Warning: Failed to load '/Game/Minimal_Default_BuiltData': Can't find file.
+[2022.04.23-18.00.52:290][474]LogLinker: Warning: Failed to load '/Game/Minimal_Default_BuiltData': Can't find file.
+[2022.04.23-18.00.52:313][474]LogLinker: Warning: [AssetLog] C:\Users\Maximo\Documents\work and school\ECE-310\Github Desktop\PowerSurge\PowerSurge\Content\Minimal_Default.umap: Failed to load '/Game/Minimal_Default_BuiltData': Can't find file.
+[2022.04.23-18.00.52:313][474]LoadErrors: Failed to load /Game/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2022.04.23-18.00.52:323][474]LogMaterial: Display: Missing cached shadermap for M_Ground_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: 001017BE39D4056F1406F05994DA564D2AF3B2ED), compiling. 
+[2022.04.23-18.00.52:365][474]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.23-18.00.52:383][474]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2022.04.23-18.00.52:383][474]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.04.23-18.00.52:383][474]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.04.23-18.00.52:383][474]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2022.04.23-18.00.52:383][474]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.04.23-18.00.52:383][474]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.04.23-18.00.52:383][474]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.04.23-18.00.52:383][474]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2022.04.23-18.00.52:383][474]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_11 in PCD3D_SM5, Default, SM5 (DDC key hash: 91D2A516850AC4CD80802C1D36A597980C43573E), compiling. 
+[2022.04.23-18.00.52:484][474]LogShaderCompilers: Display: Submitted 54 shader compile jobs with 'Low' priority
+[2022.04.23-18.00.52:490][474]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 54
+[2022.04.23-18.00.52:490][474]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.04.23-18.00.52:490][474]LogMaterial: Display: Missing cached shadermap for M_Sky_Panning_Clouds2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0239B320F577405D9075F64BC2852778468D3D1F), compiling. 
+[2022.04.23-18.00.52:511][474]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.04.23-18.00.52:574][474]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG00000000 wave Starter_Wind05...
+[2022.04.23-18.00.52:932][474]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2310208 while cooking SoundWave /Game/StarterContent/Audio/Starter_Wind05.Starter_Wind05.
+[2022.04.23-18.00.52:933][474]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG00000000 wave Starter_Birds01...
+[2022.04.23-18.00.53:258][474]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2686992 while cooking SoundWave /Game/StarterContent/Audio/Starter_Birds01.Starter_Birds01.
+[2022.04.23-18.00.53:259][474]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG00000000 wave Starter_Wind06...
+[2022.04.23-18.00.53:635][474]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2193200 while cooking SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06.
+[2022.04.23-18.00.53:666][474]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Minimal_Default.Minimal_Default
+[2022.04.23-18.00.53:666][474]Cmd: MAP LOAD FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.23-18.00.53:666][474]LightingResults: New page: Lighting Build
+[2022.04.23-18.00.53:666][474]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2022.04.23-18.00.53:677][474]LogWorld: UWorld::CleanupWorld for Museum, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.00.53:678][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.00.53:678][474]MapCheck: New page: Map Check
+[2022.04.23-18.00.53:678][474]LightingResults: New page: Lighting Build
+[2022.04.23-18.00.53:713][474]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-18.00.53:736][474]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2022.04.23-18.00.53:750][474]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.04.23-18.00.53:865][474]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.23-18.00.53:865][474]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.23-18.00.53:909][474]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2022.04.23-18.00.53:948][474]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.23-18.00.53:949][474]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.312ms to complete.
+[2022.04.23-18.00.53:949][474]LogFileHelpers: Loading map 'Minimal_Default' took 0.283
+[2022.04.23-18.00.54:021][474]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.23-18.00.54:021][474]LogContentValidation: Display: Validating Material /Game/powersurge_Mat.powersurge_Mat
+[2022.04.23-18.00.54:021][474]LogContentValidation: Display: Validating Texture2D /Game/powersurge.powersurge
+[2022.04.23-18.00.54:021][474]LogContentValidation: Display: Validating Texture2D /Game/LightsOut.LightsOut
+[2022.04.23-18.00.54:022][474]LogContentValidation: Display: Validating World /Game/Museum.Museum
+[2022.04.23-18.00.54:197][474]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Museum_BuiltData.Museum_BuiltData
+[2022.04.23-18.00.59:363][739]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.23-18.01.00:086][771]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.04.23-18.01.00:086][771]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-18.01.00:087][771]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.23-18.01.00:087][771]LogShaderCompilers: Display: Total job queries 1038, among them cache hits 746 (71.87%)
+[2022.04.23-18.01.00:087][771]LogShaderCompilers: Display: Tracking 174 distinct input hashes that result in 98 distinct outputs (56.32%)
+[2022.04.23-18.01.00:087][771]LogShaderCompilers: Display: RAM used: 2.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.25%
+[2022.04.23-18.01.00:087][771]LogShaderCompilers: Display: ================================================
+[2022.04.23-18.01.01:755][860]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.04.23-18.01.01:756][860]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-18.01.02:586][906]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.04.23-18.01.02:586][906]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-18.01.02:762][915]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 50
+[2022.04.23-18.01.02:762][915]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 43
+[2022.04.23-18.01.02:763][915]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-18.01.03:149][936]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2022.04.23-18.01.03:149][936]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-18.01.06:685][133]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2022.04.23-18.01.06:685][133]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-18.01.07:320][166]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2022.04.23-18.01.07:320][166]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-18.01.11:310][375]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2022.04.23-18.01.11:310][375]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-18.01.11:680][393]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.04.23-18.01.11:680][393]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-18.01.12:404][417]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2022.04.23-18.01.12:404][417]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-18.01.12:948][438]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2022.04.23-18.01.12:948][438]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-18.01.13:149][443]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2022.04.23-18.01.13:374][443]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMenu.MainMenu
+[2022.04.23-18.01.13:375][443]Cmd: MAP LOAD FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.23-18.01.13:375][443]LightingResults: New page: Lighting Build
+[2022.04.23-18.01.13:375][443]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.04.23-18.01.13:385][443]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.01.13:385][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.01.13:386][443]MapCheck: New page: Map Check
+[2022.04.23-18.01.13:386][443]LightingResults: New page: Lighting Build
+[2022.04.23-18.01.13:425][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-18.01.13:439][443]LogUObjectHash: Compacting FUObjectHashTables data took   8.38ms
+[2022.04.23-18.01.13:494][443]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2022.04.23-18.01.13:535][443]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2022.04.23-18.01.13:536][443]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.04.23-18.01.14:022][443]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.23-18.01.14:022][443]LogAIModule: Creating AISystem for world MainMenu
+[2022.04.23-18.01.14:070][443]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2022.04.23-18.01.14:112][443]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.23-18.01.14:113][443]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.305ms to complete.
+[2022.04.23-18.01.14:113][443]LogFileHelpers: Loading map 'MainMenu' took 0.739
+[2022.04.23-18.01.20:337][744]LogEditorViewport: Clicking on Actor (LMB): PowerSurgeChapter_C (PowerSurgeChapter)
+[2022.04.23-18.01.27:597][171]LogEditorViewport: Clicking on Actor (LMB): BoilerChapter_C (BoilerChapter)
+[2022.04.23-18.01.31:349][393]LogEditorViewport: Clicking on Actor (LMB): LightsOutChapter_C (LightsOutChapter)
+[2022.04.23-18.01.41:446][995]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.04.23-18.01.49:625][483]LogEditorViewport: Clicking on Actor (LMB): LightsOutChapter_C (LightsOutChapter)
+[2022.04.23-18.01.50:618][538]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor3)
+[2022.04.23-18.01.54:432][765]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2022.04.23-18.11.13:183][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.04.23-18.11.13:198][810]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/MainMenu_Auto6C14131A94CBFA94A9DD9CBAFD1CFC94F.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/MainMenu_Auto6.umap'
+[2022.04.23-18.11.13:199][810]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainMenu' took 0.037
+[2022.04.23-18.11.13:199][810]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2022.04.23-18.24.39:328][896]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Custom_Materials/Textures/MOSHED-2022-3-22-13-20-40.MOSHED-2022-3-22-13-20-40
+[2022.04.23-18.24.41:321][973]LogSlate: Window 'MOSHED-2022-3-22-13-20-40' being destroyed
+[2022.04.23-18.24.44:390][140]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Custom_Materials/Textures/MOSHED-2022-3-22-13-20-18.MOSHED-2022-3-22-13-20-18
+[2022.04.23-18.24.47:855][274]LogSlate: Window 'MOSHED-2022-3-22-13-20-18' being destroyed
+[2022.04.23-18.25.17:349][312]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/MOSHED-2022-3-22-13-20-1850003A654FAD2B7699CF2F9853BB8020.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Custom_Materials/Textures/MOSHED-2022-3-22-13-20-18.uasset'
+[2022.04.23-18.25.17:373][312]AssetCheck: New page: Asset Save: MOSHED-2022-3-22-13-20-18
+[2022.04.23-18.25.17:373][312]LogContentValidation: Display: Validating Texture2D /Game/Custom_Materials/Textures/MOSHED-2022-3-22-13-20-18.MOSHED-2022-3-22-13-20-18
+[2022.04.23-18.25.26:340][762]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Custom_Materials/Textures/MOSHED-2022-3-22-13-20-18.MOSHED-2022-3-22-13-20-18
+[2022.04.23-18.41.10:147][910]LogSlate: Window 'MOSHED-2022-3-22-13-20-18' being destroyed
+[2022.04.23-18.41.10:151][910]LogSlate: Window 'MOSHED-2022-3-22-13-20-18' being destroyed
+[2022.04.23-18.41.13:531][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.04.23-18.41.14:719][ 55]LogSlate: Window 'Save Content' being destroyed
+[2022.04.23-18.41.15:473][ 92]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/MOSHED-2022-3-22-13-20-18DC3E0981409438358AB7F9BC85ED3DC7.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Custom_Materials/Textures/MOSHED-2022-3-22-13-20-18.uasset'
+[2022.04.23-18.41.15:490][ 92]AssetCheck: New page: Asset Save: MOSHED-2022-3-22-13-20-18
+[2022.04.23-18.41.15:490][ 92]LogContentValidation: Display: Validating Texture2D /Game/Custom_Materials/Textures/MOSHED-2022-3-22-13-20-18.MOSHED-2022-3-22-13-20-18
