@@ -1446,3 +1446,543 @@ Button
 [2022.04.23-21.36.53:021][617]AssetCheck: New page: Asset Save: multiple assets
 [2022.04.23-21.36.53:022][617]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Museum_BuiltData.Museum_BuiltData
 [2022.04.23-21.36.53:022][617]LogContentValidation: Display: Validating World /Game/Museum.Museum
+[2022.04.23-21.37.19:505][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.04.23-21.37.19:678][545]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/MuseumEADFB6944901A71B31CF0F9ED36011E6.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum.umap'
+[2022.04.23-21.37.19:702][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Museum_BuiltData" FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum_BuiltData.uasset" SILENT=true
+[2022.04.23-21.37.19:952][545]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Museum_BuiltData091BF57E441D86621C08D4B17AC5E483.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum_BuiltData.uasset'
+[2022.04.23-21.37.19:970][545]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.23-21.37.19:970][545]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Museum_BuiltData.Museum_BuiltData
+[2022.04.23-21.37.19:970][545]LogContentValidation: Display: Validating World /Game/Museum.Museum
+[2022.04.23-21.37.23:801][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.04.23-21.37.23:852][757]LogLinker: Warning: [AssetLog] C:\Users\Maximo\Documents\work and school\ECE-310\Github Desktop\PowerSurge\PowerSurge\Content\Outside.umap: Failed to load '/Game/Outside_BuiltData': Can't find file.
+[2022.04.23-21.37.23:853][757]LogLinker: Warning: [AssetLog] C:\Users\Maximo\Documents\work and school\ECE-310\Github Desktop\PowerSurge\PowerSurge\Content\Outside.umap: Failed to load '/Game/Outside_BuiltData': Can't find file.
+[2022.04.23-21.37.23:853][757]LogLinker: Warning: [AssetLog] C:\Users\Maximo\Documents\work and school\ECE-310\Github Desktop\PowerSurge\PowerSurge\Content\Outside.umap: Failed to load '/Game/desk/desk': Can't find file.
+[2022.04.23-21.37.23:854][757]LogLinker: Warning: [AssetLog] C:\Users\Maximo\Documents\work and school\ECE-310\Github Desktop\PowerSurge\PowerSurge\Content\Outside.umap: Failed to load '/Game/desk/desk': Can't find file.
+[2022.04.23-21.37.23:855][757]LogLinker: Warning: [AssetLog] C:\Users\Maximo\Documents\work and school\ECE-310\Github Desktop\PowerSurge\PowerSurge\Content\Outside.umap: Failed to load '/Game/Outside_BuiltData': Can't find file.
+[2022.04.23-21.37.23:855][757]LogLinker: Warning: [AssetLog] C:\Users\Maximo\Documents\work and school\ECE-310\Github Desktop\PowerSurge\PowerSurge\Content\Outside.umap: Failed to load '/Game/desk/desk': Can't find file.
+[2022.04.23-21.37.23:857][757]LogLinker: Warning: Failed to load '/Game/Outside_BuiltData': Can't find file.
+[2022.04.23-21.37.23:857][757]LogLinker: Warning: Failed to load '/Game/desk/desk': Can't find file.
+[2022.04.23-21.37.23:857][757]LogLinker: Warning: Failed to load '/Game/Outside_BuiltData': Can't find file.
+[2022.04.23-21.37.23:857][757]LogLinker: Warning: Failed to load '/Game/desk/desk': Can't find file.
+[2022.04.23-21.37.23:905][757]LogLinker: Warning: [AssetLog] C:\Users\Maximo\Documents\work and school\ECE-310\Github Desktop\PowerSurge\PowerSurge\Content\Outside.umap: Failed to load '/Game/Outside_BuiltData': Can't find file.
+[2022.04.23-21.37.23:906][757]LoadErrors: Failed to load /Game/Outside_BuiltData.Outside_BuiltData Referenced by PersistentLevel
+[2022.04.23-21.37.23:908][757]LogLinker: Warning: [AssetLog] C:\Users\Maximo\Documents\work and school\ECE-310\Github Desktop\PowerSurge\PowerSurge\Content\Outside.umap: Failed to load '/Game/desk/desk': Can't find file.
+[2022.04.23-21.37.23:908][757]LoadErrors: Failed to load /Game/desk/desk.desk Referenced by desk_5
+[2022.04.23-21.37.23:913][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_11 in PCD3D_SM5, Default, SM5 (DDC key hash: 91D2A516850AC4CD80802C1D36A597980C43573E), compiling. 
+[2022.04.23-21.37.23:972][757]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.23-21.37.23:992][757]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2022.04.23-21.37.23:992][757]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.04.23-21.37.23:992][757]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.04.23-21.37.23:992][757]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2022.04.23-21.37.23:992][757]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.04.23-21.37.23:992][757]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.04.23-21.37.23:992][757]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.04.23-21.37.23:992][757]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2022.04.23-21.37.24:000][757]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Outside.Outside
+[2022.04.23-21.37.24:000][757]Cmd: MAP LOAD FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Outside.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.23-21.37.24:000][757]LightingResults: New page: Lighting Build
+[2022.04.23-21.37.24:001][757]LoadErrors: New page: Loading map: Outside.umap
+[2022.04.23-21.37.24:009][757]LogWorld: UWorld::CleanupWorld for Museum, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-21.37.24:009][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-21.37.24:010][757]MapCheck: New page: Map Check
+[2022.04.23-21.37.24:010][757]LightingResults: New page: Lighting Build
+[2022.04.23-21.37.24:027][757]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-21.37.24:038][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.04.23-21.37.24:045][757]LogAudio: Display: Audio Device (ID: 1) registered with world 'Outside'.
+[2022.04.23-21.37.24:242][757]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.23-21.37.24:242][757]LogAIModule: Creating AISystem for world Outside
+[2022.04.23-21.37.24:274][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.04.23-21.37.24:315][757]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.23-21.37.24:315][757]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.265ms to complete.
+[2022.04.23-21.37.24:316][757]LogFileHelpers: Loading map 'Outside' took 0.315
+[2022.04.23-21.38.35:822][351]LogMetaData: Removing '/Game/PowerSurge/Outside.Outside_C' ref from Metadata '/Game/Outside.PackageMetaData'
+[2022.04.23-21.38.35:822][351]LogMetaData: Removing '/Game/PowerSurge/Outside.SKEL_Outside_C:ReceiveBeginPlay' ref from Metadata '/Game/Outside.PackageMetaData'
+[2022.04.23-21.38.35:822][351]LogMetaData: Removing '/Game/PowerSurge/Outside.SKEL_Outside_C:ReceiveTick' ref from Metadata '/Game/Outside.PackageMetaData'
+[2022.04.23-21.38.35:822][351]LogMetaData: Removing '/Game/PowerSurge/Outside.SKEL_Outside_C' ref from Metadata '/Game/Outside.PackageMetaData'
+[2022.04.23-21.38.35:822][351]LogMetaData: Removing '/Game/PowerSurge/Outside.Outside_C:ReceiveTick' ref from Metadata '/Game/Outside.PackageMetaData'
+[2022.04.23-21.38.35:823][351]LogMetaData: Removing '/Game/PowerSurge/Outside.Outside_C:ReceiveBeginPlay' ref from Metadata '/Game/Outside.PackageMetaData'
+[2022.04.23-21.38.35:872][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.04.23-21.38.35:957][351]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Outside569286FB44E70C860CF8A8B54E230C1B.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/PowerSurge/Outside.umap'
+[2022.04.23-21.38.35:973][351]LogFileHelpers: Saving map 'Outside' took 0.111
+[2022.04.23-21.38.36:066][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.23-21.38.36:083][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.04.23-21.38.36:092][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.23-21.38.36:171][351]AssetCheck: New page: Asset Save: Outside
+[2022.04.23-21.38.36:172][351]LogContentValidation: Display: Validating World /Game/PowerSurge/Outside.Outside
+[2022.04.23-21.38.37:333][404]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Ending_1.Office'
+[2022.04.23-21.38.45:632][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.04.23-21.38.45:679][834]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PowerSurge/Outside.Outside
+[2022.04.23-21.38.45:679][834]Cmd: MAP LOAD FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/PowerSurge/Outside.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.23-21.38.45:680][834]LightingResults: New page: Lighting Build
+[2022.04.23-21.38.45:680][834]LoadErrors: New page: Loading map: Outside.umap
+[2022.04.23-21.38.45:719][834]LogWorld: UWorld::CleanupWorld for Outside, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-21.38.45:719][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-21.38.45:719][834]MapCheck: New page: Map Check
+[2022.04.23-21.38.45:719][834]LightingResults: New page: Lighting Build
+[2022.04.23-21.38.45:727][834]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-21.38.45:731][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.04.23-21.38.45:744][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.04.23-21.38.45:752][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.04.23-21.38.45:797][834]LogAudio: Display: Audio Device (ID: 1) registered with world 'Outside'.
+[2022.04.23-21.38.45:797][834]LogAIModule: Creating AISystem for world Outside
+[2022.04.23-21.38.45:954][834]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.23-21.38.45:969][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.04.23-21.38.45:984][834]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.23-21.38.45:984][834]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2022.04.23-21.38.45:984][834]LogFileHelpers: Loading map 'Outside' took 0.306
+[2022.04.23-21.38.49:013][  4]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.23-21.38.49:026][  4]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.23-21.38.53:738][283]LogContentBrowser: Attempting asset rename: NewFolder -> Building
+[2022.04.23-21.38.53:738][283]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.23-21.38.57:588][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\briks_2.jpg)
+[2022.04.23-21.38.57:631][338]LogTexture: Display: Building textures: briks_2 (OODLE_AutoDXT, 2000X2000)
+[2022.04.23-21.38.58:149][338]LogTextureFormatOodle: Display: non-RDO encode 2000 x 2000 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.38.58:189][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\briks_2_bump.jpg)
+[2022.04.23-21.38.58:271][338]LogTexture: Display: Building textures: briks_2_bump (OODLE_BC5, 2000X2000)
+[2022.04.23-21.38.58:407][338]LogTextureFormatOodle: Display: non-RDO encode 2000 x 2000 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.23-21.38.58:502][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\briks_2_spec.jpg)
+[2022.04.23-21.38.58:533][338]LogTexture: Display: Building textures: briks_2_spec (OODLE_AutoDXT, 2000X2000)
+[2022.04.23-21.38.58:899][338]LogTextureFormatOodle: Display: non-RDO encode 2000 x 2000 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.38.59:004][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\briks_4.jpg)
+[2022.04.23-21.38.59:052][338]LogTexture: Display: Building textures: briks_4 (OODLE_AutoDXT, 2200X2200)
+[2022.04.23-21.38.59:590][338]LogTextureFormatOodle: Display: non-RDO encode 2200 x 2200 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.38.59:653][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\briks_4_bump.jpg)
+[2022.04.23-21.38.59:728][338]LogTexture: Display: Building textures: briks_4_bump (OODLE_BC5, 2200X2200)
+[2022.04.23-21.38.59:905][338]LogTextureFormatOodle: Display: non-RDO encode 2200 x 2200 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.23-21.39.00:007][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\briks_4_spec.jpg)
+[2022.04.23-21.39.00:077][338]LogTexture: Display: Building textures: briks_4_spec (OODLE_AutoDXT, 2200X2200)
+[2022.04.23-21.39.00:664][338]LogTextureFormatOodle: Display: non-RDO encode 2200 x 2200 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.00:742][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\creat_beton_9.jpg)
+[2022.04.23-21.39.00:761][338]LogTexture: Display: Building textures: creat_beton_9 (OODLE_AutoDXT, 1200X1200)
+[2022.04.23-21.39.00:991][338]LogTextureFormatOodle: Display: non-RDO encode 1200 x 1200 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.01:026][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\creat_beton_9_bump.jpg)
+[2022.04.23-21.39.01:068][338]LogTexture: Display: Building textures: creat_beton_9_bump (OODLE_BC5, 1200X1200)
+[2022.04.23-21.39.01:144][338]LogTextureFormatOodle: Display: non-RDO encode 1200 x 1200 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.23-21.39.01:144][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\creat_beton_9_spec.jpg)
+[2022.04.23-21.39.01:158][338]LogTexture: Display: Building textures: creat_beton_9_spec (OODLE_AutoDXT, 1200X1200)
+[2022.04.23-21.39.01:360][338]LogTextureFormatOodle: Display: non-RDO encode 1200 x 1200 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.01:444][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\door_tp_1.jpg)
+[2022.04.23-21.39.01:460][338]LogTexture: Display: Building textures: door_tp_1 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-21.39.01:642][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.01:719][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\door_tp_1_bump.jpg)
+[2022.04.23-21.39.01:743][338]LogTexture: Display: Building textures: door_tp_1_bump (OODLE_BC5, 1024X1024)
+[2022.04.23-21.39.01:834][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.23-21.39.01:834][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\door_tp_1_spec.jpg)
+[2022.04.23-21.39.01:853][338]LogTexture: Display: Building textures: door_tp_1_spec (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-21.39.01:972][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.02:086][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\door_tp_2.jpg)
+[2022.04.23-21.39.02:099][338]LogTexture: Display: Building textures: door_tp_2 (OODLE_AutoDXT, 512X1024)
+[2022.04.23-21.39.02:188][338]LogTextureFormatOodle: Display: non-RDO encode 512 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.02:270][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\door_tp_2_bump.jpg)
+[2022.04.23-21.39.02:286][338]LogTexture: Display: Building textures: door_tp_2_bump (OODLE_BC5, 512X1024)
+[2022.04.23-21.39.02:340][338]LogTextureFormatOodle: Display: non-RDO encode 512 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.23-21.39.02:340][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\door_tp_2_spec.jpg)
+[2022.04.23-21.39.02:349][338]LogTexture: Display: Building textures: door_tp_2_spec (OODLE_AutoDXT, 512X1024)
+[2022.04.23-21.39.02:427][338]LogTextureFormatOodle: Display: non-RDO encode 512 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.02:515][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\door_tp_3.jpg)
+[2022.04.23-21.39.02:521][338]LogTexture: Display: Building textures: door_tp_3 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-21.39.02:641][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.02:753][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\door_tp_3_bump.jpg)
+[2022.04.23-21.39.02:786][338]LogTexture: Display: Building textures: door_tp_3_bump (OODLE_BC5, 1024X1024)
+[2022.04.23-21.39.02:855][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.23-21.39.03:004][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\door_tp_3_spec.jpg)
+[2022.04.23-21.39.03:016][338]LogTexture: Display: Building textures: door_tp_3_spec (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-21.39.03:181][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.03:293][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\door_tp_4.jpg)
+[2022.04.23-21.39.03:338][338]LogTexture: Display: Building textures: door_tp_4 (OODLE_AutoDXT, 2048X2048)
+[2022.04.23-21.39.04:180][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.04:180][338]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.04:228][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\door_tp_4_bump.jpg)
+[2022.04.23-21.39.04:285][338]LogTexture: Display: Building textures: door_tp_4_bump (OODLE_BC5, 2048X2048)
+[2022.04.23-21.39.04:552][338]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.23-21.39.04:552][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.23-21.39.04:635][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\door_tp_4_spec.jpg)
+[2022.04.23-21.39.04:662][338]LogTexture: Display: Building textures: door_tp_4_spec (OODLE_AutoDXT, 2048X2048)
+[2022.04.23-21.39.05:478][338]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.05:479][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.05:547][338]LogAssetTools: Warning: Failed to import 'C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\el_podstation.mtl'. Unknown extension 'mtl'.
+[2022.04.23-21.39.05:558][338]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\el_podstation.obj)
+[2022.04.23-21.39.05:647][338]LogFbx: Loading FBX Scene from C:\Users\Maximo\Downloads\el_podstation(OBJ)\el_podstation(OBJ)\el_podstation.obj
+[2022.04.23-21.39.05:677][338]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.23-21.39.17:201][338]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.23-21.39.17:278][338]LogTexture: Display: Building textures: briks_2 (OODLE_AutoDXT, 2000X2000)
+[2022.04.23-21.39.17:766][338]LogTextureFormatOodle: Display: non-RDO encode 2000 x 2000 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.17:780][338]LogMaterial: Display: Missing cached shadermap for briks_2_jpg in PCD3D_SM5, Default, SM5 (DDC key hash: 5084EA019141B28740EF1B70E6C788E8721EAA36), compiling. 
+[2022.04.23-21.39.17:812][338]LogTexture: Display: Building textures: creat_beton_9 (OODLE_AutoDXT, 1200X1200)
+[2022.04.23-21.39.17:981][338]LogTextureFormatOodle: Display: non-RDO encode 1200 x 1200 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.17:991][338]LogMaterial: Display: Missing cached shadermap for creat_beton_9_jpg in PCD3D_SM5, Default, SM5 (DDC key hash: 06979D681B6C9312AC5BF1D0BB82A7B7A1CE1E5F), compiling. 
+[2022.04.23-21.39.18:014][338]LogTexture: Display: Building textures: mtl_10 (OODLE_AutoDXT, 1000X1000)
+[2022.04.23-21.39.18:126][338]LogMaterial: Display: Missing cached shadermap for mtl_10_jpg in PCD3D_SM5, Default, SM5 (DDC key hash: FC8947F49E841DAF9130E226B55F18C3B96B7089), compiling. 
+[2022.04.23-21.39.18:152][338]LogTexture: Display: Building textures: roof_smola (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-21.39.18:326][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.18:334][338]LogMaterial: Display: Missing cached shadermap for roof_smola_jpg in PCD3D_SM5, Default, SM5 (DDC key hash: A5535CD767D60EEAB74F54A70E5448C7E3AA069B), compiling. 
+[2022.04.23-21.39.18:362][338]LogTexture: Display: Building textures: door_tp_2 (OODLE_AutoDXT, 512X1024)
+[2022.04.23-21.39.18:416][338]LogTextureFormatOodle: Display: non-RDO encode 512 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.18:418][338]LogMaterial: Display: Missing cached shadermap for door_tp_2_jpg in PCD3D_SM5, Default, SM5 (DDC key hash: 66CBD98207D84BC7DF70537197D3BA14ADAEBA71), compiling. 
+[2022.04.23-21.39.18:482][338]LogTexture: Display: Building textures: door_tp_4 (OODLE_AutoDXT, 2048X2048)
+[2022.04.23-21.39.19:032][338]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.19:032][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.19:040][338]LogMaterial: Display: Missing cached shadermap for door_tp_4_jpg in PCD3D_SM5, Default, SM5 (DDC key hash: FEC0B7E5A53B7EA6571977DB497C85262B135197), compiling. 
+[2022.04.23-21.39.19:055][338]LogTexture: Display: Building textures: windows_reh_1 (OODLE_AutoDXT, 1024X512)
+[2022.04.23-21.39.19:112][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.19:115][338]LogMaterial: Display: Missing cached shadermap for windows_reh_1_jpg in PCD3D_SM5, Default, SM5 (DDC key hash: 3A6C317AE15E1D2B2FFA09DA82484A06965AFB35), compiling. 
+[2022.04.23-21.39.19:147][338]LogTexture: Display: Building textures: door_tp_3 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-21.39.19:249][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.19:254][338]LogMaterial: Display: Missing cached shadermap for door_tp_3_jpg in PCD3D_SM5, Default, SM5 (DDC key hash: 417E542BCEFB97132B74DF9E9342FA3A07D5BAFF), compiling. 
+[2022.04.23-21.39.19:330][338]LogTexture: Display: Building textures: briks_4 (OODLE_AutoDXT, 2200X2200)
+[2022.04.23-21.39.19:854][338]LogTextureFormatOodle: Display: non-RDO encode 2200 x 2200 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.19:862][338]LogMaterial: Display: Missing cached shadermap for briks_4_jpg in PCD3D_SM5, Default, SM5 (DDC key hash: 99FCB84D74C8AEDB7F1021978BEA2DA13504B567), compiling. 
+[2022.04.23-21.39.19:888][338]LogTexture: Display: Building textures: door_tp_1 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-21.39.19:995][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.39.19:998][338]LogMaterial: Display: Missing cached shadermap for door_tp_1_jpg in PCD3D_SM5, Default, SM5 (DDC key hash: 5CEEFBD8D11165C926483EFED2FA9D8B19C6BBD6), compiling. 
+[2022.04.23-21.39.20:033][338]LogTexture: Display: Building textures: mtl_5_ncl1_1 (OODLE_AutoDXT, 1000X1000)
+[2022.04.23-21.39.20:156][338]LogMaterial: Display: Missing cached shadermap for mtl_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 81818C61A19696737580E853E031378CD62D180B), compiling. 
+[2022.04.23-21.39.20:181][338]LogTexture: Display: Building textures: mtl_2 (OODLE_AutoDXT, 1000X1000)
+[2022.04.23-21.39.20:313][338]LogMaterial: Display: Missing cached shadermap for mtl_2_tga in PCD3D_SM5, Default, SM5 (DDC key hash: 3B25388914F704C143708173942547471255167E), compiling. 
+[2022.04.23-21.39.20:317][338]LogFbx: Display: Triangulating static mesh Plane001
+[2022.04.23-21.39.20:362][338]LogStaticMesh: Building static mesh el_podstation...
+[2022.04.23-21.39.20:392][338]LogStaticMesh: Built static mesh [0.03s] /Game/PowerSurge/Building/el_podstation.el_podstation
+[2022.04.23-21.39.20:404][338]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'mtl_5' was renamed 'mtl_5_ncl1_1' 
+[2022.04.23-21.39.26:895][338]LogSlate: Window 'Message' being destroyed
+[2022.04.23-21.39.26:901][338]Message dialog closed, result: No, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/PowerSurge/Building/mtl_2
+[2022.04.23-21.39.27:030][340]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.27:030][340]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.23-21.39.27:030][340]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.23-21.39.27:030][340]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.27:043][341]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.27:053][341]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.04.23-21.39.27:053][341]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.04.23-21.39.27:053][341]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.04.23-21.39.27:053][341]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.04.23-21.39.27:053][341]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.04.23-21.39.27:053][341]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.23-21.39.27:053][341]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.27:063][341]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.27:091][341]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.27:106][341]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.27:135][341]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.27:151][341]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.27:183][341]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.27:201][341]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.27:230][341]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.27:246][341]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.27:256][341]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.27:266][341]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.27:274][341]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.27:284][341]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.27:294][341]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.27:302][341]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.27:334][341]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.27:364][341]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.27:394][341]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.27:424][341]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.27:454][341]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.27:485][341]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.27:514][341]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.29:310][394]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2022.04.23-21.39.29:310][394]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.29:310][394]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.23-21.39.29:310][394]LogShaderCompilers: Display: Total job queries 359, among them cache hits 34 (9.47%)
+[2022.04.23-21.39.29:310][394]LogShaderCompilers: Display: Tracking 109 distinct input hashes that result in 72 distinct outputs (66.06%)
+[2022.04.23-21.39.29:310][394]LogShaderCompilers: Display: RAM used: 1.19 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.15%
+[2022.04.23-21.39.29:310][394]LogShaderCompilers: Display: ================================================
+[2022.04.23-21.39.29:436][396]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2022.04.23-21.39.29:436][396]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.34:603][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400)
+[2022.04.23-21.39.35:583][692]Cmd: DELETE
+[2022.04.23-21.39.35:583][692]Cmd: ACTOR DELETE
+[2022.04.23-21.39.35:593][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.23-21.39.35:610][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.04.23-21.39.35:619][692]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.04.23-21.39.35:964][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2022.04.23-21.39.36:083][712]Cmd: DELETE
+[2022.04.23-21.39.36:083][712]Cmd: ACTOR DELETE
+[2022.04.23-21.39.36:093][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.23-21.39.36:108][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.04.23-21.39.36:109][712]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.04.23-21.39.36:513][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400_3)
+[2022.04.23-21.39.36:779][740]Cmd: DELETE
+[2022.04.23-21.39.36:779][740]Cmd: ACTOR DELETE
+[2022.04.23-21.39.36:787][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.23-21.39.36:800][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.04.23-21.39.36:802][740]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.04.23-21.39.37:155][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400_2)
+[2022.04.23-21.39.37:294][761]Cmd: DELETE
+[2022.04.23-21.39.37:294][761]Cmd: ACTOR DELETE
+[2022.04.23-21.39.37:302][761]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.23-21.39.37:315][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.04.23-21.39.37:316][761]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2022.04.23-21.39.37:599][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400_1)
+[2022.04.23-21.39.37:728][777]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2022.04.23-21.39.37:728][777]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.37:760][778]Cmd: DELETE
+[2022.04.23-21.39.37:760][778]Cmd: ACTOR DELETE
+[2022.04.23-21.39.37:768][778]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.23-21.39.37:781][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.04.23-21.39.37:782][778]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.04.23-21.39.38:182][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2022.04.23-21.39.38:334][801]Cmd: DELETE
+[2022.04.23-21.39.38:334][801]Cmd: ACTOR DELETE
+[2022.04.23-21.39.38:342][801]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.23-21.39.38:361][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.04.23-21.39.38:362][801]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.04.23-21.39.38:439][805]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2022.04.23-21.39.38:439][805]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.39:386][854]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2022.04.23-21.39.39:386][854]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.39:808][877]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2022.04.23-21.39.39:808][877]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.39:922][883]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.04.23-21.39.39:922][883]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.41:441][949]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.04.23-21.39.41:441][949]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.42:396][990]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.04.23-21.39.42:396][990]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.44:045][ 59]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.04.23-21.39.44:045][ 59]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.46:361][156]LogActorFactory: Actor Factory created el_podstation
+[2022.04.23-21.39.46:927][170]LogActorFactory: Actor Factory created el_podstation
+[2022.04.23-21.39.48:895][245]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.04.23-21.39.48:895][245]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.50:254][311]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.04.23-21.39.50:254][311]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.50:449][319]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.04.23-21.39.50:449][319]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.39.50:985][344]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 156
+[2022.04.23-21.39.50:985][344]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.51:265][356]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 146
+[2022.04.23-21.39.51:265][356]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.51:661][373]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 136
+[2022.04.23-21.39.51:661][373]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.52:023][387]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 126
+[2022.04.23-21.39.52:023][387]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 116
+[2022.04.23-21.39.52:023][387]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.54:673][486]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 106
+[2022.04.23-21.39.54:673][486]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.39.59:242][642]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 96
+[2022.04.23-21.39.59:242][642]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.40.00:575][684]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 86
+[2022.04.23-21.40.00:575][684]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.40.41:399][ 80]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 76
+[2022.04.23-21.40.41:399][ 80]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.40.41:722][ 87]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 66
+[2022.04.23-21.40.41:722][ 87]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.40.43:442][145]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.04.23-21.40.49:485][364]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 57
+[2022.04.23-21.40.49:486][364]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.40.50:182][394]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.23-21.40.51:846][465]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 49
+[2022.04.23-21.40.51:846][465]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.40.53:912][563]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 42
+[2022.04.23-21.40.53:912][563]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.00:432][872]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 36
+[2022.04.23-21.41.00:433][872]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.00:826][884]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 31
+[2022.04.23-21.41.00:826][884]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.01:664][915]LogSlate: Took 0.002286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.23-21.41.04:020][995]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.23-21.41.06:167][ 96]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2022.04.23-21.41.06:168][ 96]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.14:064][425]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.04.23-21.41.14:064][425]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.41.15:451][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (el_podstation)
+[2022.04.23-21.41.18:097][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.04.23-21.41.22:269][752]Cmd: DELETE
+[2022.04.23-21.41.22:269][752]Cmd: ACTOR DELETE
+[2022.04.23-21.41.22:278][752]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.23-21.41.22:295][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.04.23-21.41.22:300][752]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.04.23-21.41.23:081][796]LogEditorViewport: Clicking on Actor (LMB): Pronngs_C (Pronngs)
+[2022.04.23-21.41.24:141][851]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.04.23-21.41.24:141][851]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.41.24:167][852]LogEditorViewport: Clicking on Actor (LMB): Pronngs_C (Pronngs)
+[2022.04.23-21.41.27:549][ 20]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2022.04.23-21.41.27:549][ 20]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.28:216][ 39]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2022.04.23-21.41.28:216][ 39]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.29:460][ 91]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2022.04.23-21.41.29:460][ 91]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.30:930][145]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.04.23-21.41.30:930][145]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.30:950][146]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.04.23-21.41.31:392][163]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume)
+[2022.04.23-21.41.32:435][207]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.04.23-21.41.33:326][246]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2022.04.23-21.41.33:326][246]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.34:697][304]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.04.23-21.41.34:697][304]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.35:885][329]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.04.23-21.41.35:885][329]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.37:806][369]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.04.23-21.41.37:806][369]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.38:482][384]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.23-21.41.38:482][384]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.40:120][413]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.04.23-21.41.40:120][413]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.41:026][436]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.04.23-21.41.41:026][436]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.42:584][452]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.23-21.41.42:584][452]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.43:852][479]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.04.23-21.41.43:852][479]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.41.48:947][633]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2022.04.23-21.41.59:348][213]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume)
+[2022.04.23-21.42.32:800][884]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2022.04.23-21.42.35:631][ 49]Cmd: DELETE
+[2022.04.23-21.42.35:631][ 49]Cmd: ACTOR DELETE
+[2022.04.23-21.42.35:634][ 49]LogEditorActor: Actor Light Source is referenced by BP_Sky_Sphere.
+[2022.04.23-21.42.37:102][ 49]LogSlate: Window 'Message' being destroyed
+[2022.04.23-21.42.37:110][ 49]Message dialog closed, result: No, title: Message, text: Actor Light Source is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+BP_Sky_Sphere
+[2022.04.23-21.42.37:120][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.04.23-21.42.37:122][ 49]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2022.04.23-21.42.39:458][186]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2022.04.23-21.42.40:819][265]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.04.23-21.42.41:404][299]Cmd: DELETE
+[2022.04.23-21.42.41:404][299]Cmd: ACTOR DELETE
+[2022.04.23-21.42.41:405][299]LogEditorActor: Deleted Actor: SkyLight
+[2022.04.23-21.42.41:413][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.23-21.42.41:415][299]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.04.23-21.42.42:882][387]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2022.04.23-21.42.53:520][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.04.23-21.42.53:610][998]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Outside3B4B9A29452591667201299AD42FFDEF.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/PowerSurge/Outside.umap'
+[2022.04.23-21.42.53:644][998]AssetCheck: New page: Asset Save: Outside
+[2022.04.23-21.42.53:644][998]LogContentValidation: Display: Validating World /Game/PowerSurge/Outside.Outside
+[2022.04.23-21.42.55:455][106]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2022.04.23-21.42.56:429][162]Cmd: DELETE
+[2022.04.23-21.42.56:429][162]Cmd: ACTOR DELETE
+[2022.04.23-21.42.56:432][162]LogEditorActor: Actor Light Source is referenced by BP_Sky_Sphere.
+[2022.04.23-21.42.57:535][162]LogSlate: Window 'Message' being destroyed
+[2022.04.23-21.42.57:541][162]Message dialog closed, result: Yes, title: Message, text: Actor Light Source is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+BP_Sky_Sphere
+[2022.04.23-21.42.57:541][162]LogEditorActor: Deleted Actor: DirectionalLight
+[2022.04.23-21.42.57:551][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.04.23-21.42.57:552][162]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.04.23-21.42.59:028][250]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Starter_Background_Cue)
+[2022.04.23-21.43.01:732][406]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.04.23-21.43.02:468][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (el_podstation)
+[2022.04.23-21.43.14:170][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.23-21.43.14:258][107]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Outside300AD65C40D49A705207758951719A6F.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/PowerSurge/Outside.umap'
+[2022.04.23-21.43.14:300][107]AssetCheck: New page: Asset Save: Outside
+[2022.04.23-21.43.14:300][107]LogContentValidation: Display: Validating World /Game/PowerSurge/Outside.Outside
+[2022.04.23-21.43.20:418][464]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2022.04.23-21.43.39:576][509]Cmd: DELETE
+[2022.04.23-21.43.39:577][509]Cmd: ACTOR DELETE
+[2022.04.23-21.43.39:580][509]LogEditorActor: Deleted Actor: AtmosphericFog
+[2022.04.23-21.43.39:590][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.04.23-21.43.39:593][509]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.04.23-21.44.43:609][ 83]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.23-21.44.47:324][285]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.23-21.44.49:857][424]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.23-21.44.52:558][565]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.23-21.45.11:504][684]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.04.23-21.45.24:146][373]LogMaterial: Display: Missing cached shadermap for M_Tech_Checker_Dot in PCD3D_SM5, Default, SM5 (DDC key hash: D86A2FCAA0BB1F3D28F714EB53119CC5D22F5802), compiling. 
+[2022.04.23-21.45.24:173][373]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.23-21.45.24:179][373]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2022.04.23-21.45.24:179][373]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.04.23-21.45.24:179][373]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.04.23-21.45.24:179][373]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2022.04.23-21.45.24:179][373]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.04.23-21.45.24:179][373]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.04.23-21.45.24:179][373]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.04.23-21.45.24:179][373]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2022.04.23-21.45.27:586][526]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.04.23-21.45.28:143][546]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.04.23-21.45.28:831][577]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.04.23-21.45.34:992][786]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.23-21.45.34:992][786]LogShaderCompilers: Display: Total job queries 387, among them cache hits 37 (9.56%)
+[2022.04.23-21.45.34:992][786]LogShaderCompilers: Display: Tracking 301 distinct input hashes that result in 73 distinct outputs (24.25%)
+[2022.04.23-21.45.34:992][786]LogShaderCompilers: Display: RAM used: 1.24 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.15%
+[2022.04.23-21.45.34:992][786]LogShaderCompilers: Display: ================================================
+[2022.04.23-21.45.44:157][ 93]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E9ED9BB1125B6B6161311FC4B9FB7E01361BD0A3), compiling. 
+[2022.04.23-21.45.44:176][ 93]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.45.44:176][ 93]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.23-21.45.44:176][ 93]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.23-21.45.44:176][ 93]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.45.44:281][ 93]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2022.04.23-21.45.44:281][ 93]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 50
+[2022.04.23-21.45.44:281][ 93]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.45.44:281][ 93]LogShaderCompilers: Display: Submitted 52 shader compile jobs with 'Normal' priority
+[2022.04.23-21.45.44:862][115]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 48
+[2022.04.23-21.45.44:862][115]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.45.45:337][134]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 41
+[2022.04.23-21.45.45:338][134]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.45.45:563][144]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2022.04.23-21.45.45:563][144]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.45.46:186][173]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 30
+[2022.04.23-21.45.46:186][173]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.45.47:913][213]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_20 in PCD3D_SM5, Default, SM5 (DDC key hash: 24037D5B139DF516383759932A1E2C5D0CE48F34), compiling. 
+[2022.04.23-21.45.47:965][213]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.45.48:091][213]LogShaderCompilers: Display: Submitted 52 shader compile jobs with 'Normal' priority
+[2022.04.23-21.45.53:717][420]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.23-21.45.53:717][420]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.45.54:357][447]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.04.23-21.45.54:357][447]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.45.54:969][472]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 52
+[2022.04.23-21.45.54:969][472]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.45.55:113][477]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 45
+[2022.04.23-21.45.55:113][477]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.45.55:566][496]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2022.04.23-21.45.55:566][496]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.02:557][795]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2022.04.23-21.46.02:557][795]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.07:610][ 10]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2022.04.23-21.46.07:610][ 10]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.09:017][ 59]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2022.04.23-21.46.09:017][ 59]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.09:635][ 72]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2022.04.23-21.46.09:635][ 72]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.17:386][353]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2022.04.23-21.46.17:386][353]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.20:384][442]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2022.04.23-21.46.20:385][442]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.21:966][486]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2022.04.23-21.46.21:966][486]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.24:659][586]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2022.04.23-21.46.24:659][586]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.25:256][602]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2022.04.23-21.46.25:256][602]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.25:284][603]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.04.23-21.46.25:284][603]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.29:445][732]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2022.04.23-21.46.29:445][732]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.30:869][778]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.04.23-21.46.30:869][778]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.32:556][847]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.04.23-21.46.32:556][847]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.36:650][966]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.04.23-21.46.36:650][966]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.36:938][973]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.04.23-21.46.36:938][973]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.46.37:813][994]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.04.23-21.46.37:813][994]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.49.26:588][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.04.23-21.49.26:611][497]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2022.04.23-21.49.26:611][497]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2022.04.23-21.49.26:612][497]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2022.04.23-21.49.26:612][497]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2022.04.23-21.49.26:613][497]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2022.04.23-21.49.26:614][497]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2022.04.23-21.49.26:615][497]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2022.04.23-21.49.26:615][497]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2022.04.23-21.49.26:616][497]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2022.04.23-21.49.26:618][497]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2022.04.23-21.49.26:619][497]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2022.04.23-21.49.26:620][497]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2022.04.23-21.49.26:621][497]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2022.04.23-21.49.26:622][497]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2022.04.23-21.49.26:623][497]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2022.04.23-21.49.26:624][497]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2022.04.23-21.49.26:693][497]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/OutsideB8A818F2402847F2229293B53A4BA686.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/PowerSurge/Outside.umap'
+[2022.04.23-21.49.26:724][497]AssetCheck: New page: Asset Save: Outside
+[2022.04.23-21.49.26:724][497]LogContentValidation: Display: Validating World /Game/PowerSurge/Outside.Outside
