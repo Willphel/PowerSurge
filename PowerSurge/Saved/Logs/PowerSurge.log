@@ -2727,3 +2727,210 @@ NewLevelSequence
 [2022.04.23-18.41.15:473][ 92]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/MOSHED-2022-3-22-13-20-18DC3E0981409438358AB7F9BC85ED3DC7.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Custom_Materials/Textures/MOSHED-2022-3-22-13-20-18.uasset'
 [2022.04.23-18.41.15:490][ 92]AssetCheck: New page: Asset Save: MOSHED-2022-3-22-13-20-18
 [2022.04.23-18.41.15:490][ 92]LogContentValidation: Display: Validating Texture2D /Game/Custom_Materials/Textures/MOSHED-2022-3-22-13-20-18.MOSHED-2022-3-22-13-20-18
+[2022.04.23-18.41.49:084][506]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2022.04.23-18.41.49:634][539]Cmd: DELETE
+[2022.04.23-18.41.49:634][539]Cmd: ACTOR DELETE
+[2022.04.23-18.41.49:635][539]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.04.23-18.41.49:657][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.04.23-18.41.49:659][539]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.04.23-18.42.03:361][339]LogActorFactory: Actor Factory created Plane
+[2022.04.23-18.42.04:210][385]LogActorFactory: Actor Factory created Plane
+[2022.04.23-18.42.14:321][579]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Pictures\Substation7.png)
+[2022.04.23-18.42.14:342][579]LogTexture: Display: Building textures: Substation7 (OODLE_AutoDXT, 1200X900)
+[2022.04.23-18.42.14:380][579]LogTextureFormatOodle: Display: non-RDO encode 1200 x 900 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-18.42.16:791][689]LogMaterial: Display: Missing cached shadermap for Substation7_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 80EB4AA3B4AC8B14BBC6E36B12CD050B4230A841), compiling. 
+[2022.04.23-18.42.16:825][689]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-18.42.16:832][689]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.23-18.42.16:832][689]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.23-18.42.16:832][689]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-18.42.16:839][689]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.23-18.42.16:898][690]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.04.23-18.42.16:898][690]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.04.23-18.42.16:898][690]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.04.23-18.42.16:898][690]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.04.23-18.42.16:898][690]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.04.23-18.42.16:898][690]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.23-18.42.16:898][690]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-18.42.18:632][761]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.04.23-18.42.18:632][761]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-18.42.18:637][761]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.23-18.42.18:637][761]LogShaderCompilers: Display: Total job queries 1054, among them cache hits 746 (70.78%)
+[2022.04.23-18.42.18:637][761]LogShaderCompilers: Display: Tracking 247 distinct input hashes that result in 145 distinct outputs (58.70%)
+[2022.04.23-18.42.18:638][761]LogShaderCompilers: Display: RAM used: 2.69 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.33%
+[2022.04.23-18.42.18:638][761]LogShaderCompilers: Display: ================================================
+[2022.04.23-18.42.18:702][764]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.23-18.42.18:702][764]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-18.42.46:906][321]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Substation7_Mat.Substation7_Mat
+[2022.04.23-18.42.46:908][321]LogMaterial: Display: Missing cached shadermap for Substation7_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CEF901866841E8C851DDA0795ED340D1CBCAF5D2), compiling. 
+[2022.04.23-18.42.47:060][321]LogMaterial: Display: Missing cached shadermap for Substation7_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 40CEE2945907FD3323D04F0563FB2C83231C73B9), compiling. 
+[2022.04.23-18.42.47:064][321]LogMaterial: Display: Missing cached shadermap for Substation7_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 103FFDFFC0222E9D748340ACDC7819510BFB5431), compiling. 
+[2022.04.23-18.42.47:067][321]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A039D726D34030A6F0CF7AD7D7D3CCA2036DCB81), compiling. 
+[2022.04.23-18.42.47:102][321]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-18.42.47:102][321]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.23-18.42.47:102][321]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.23-18.42.47:291][322]MaterialEditorStats: Base pass shader: 794 instructions
+[2022.04.23-18.42.47:291][322]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 861 instructions
+[2022.04.23-18.42.47:291][322]MaterialEditorStats: Base pass vertex shader: 271 instructions
+[2022.04.23-18.42.47:291][322]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.23-18.42.47:291][322]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.23-18.42.47:291][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.23-18.42.47:424][326]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-18.42.47:424][326]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.23-18.42.47:424][326]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.23-18.42.47:424][326]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-18.42.49:183][405]LogMaterial: Display: Missing cached shadermap for Substation7_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 90964C30FC5BF3CE737423FCB3952922F5EF9816), compiling. 
+[2022.04.23-18.42.49:185][405]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B5BECCDCA827B26F83AAD20FDA0ADECECE2BDC75), compiling. 
+[2022.04.23-18.42.49:189][405]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-18.42.49:189][405]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.23-18.42.49:189][405]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.23-18.42.49:201][406]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-18.42.49:202][406]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.23-18.42.49:202][406]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.23-18.42.49:202][406]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-18.42.49:219][407]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.04.23-18.42.49:219][407]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.04.23-18.42.49:219][407]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.04.23-18.42.49:219][407]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.04.23-18.42.49:219][407]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.04.23-18.42.49:219][407]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-18.42.50:183][438]LogMaterialEditor: Applying material Substation7_Mat
+[2022.04.23-18.42.55:537][438]LogMaterial: Display: Missing cached shadermap for Substation7_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 929CF7B97725C031384887F038876907A3401440), compiling. 
+[2022.04.23-18.42.55:591][438]LogMaterial: Display: Missing cached shadermap for Substation7_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F7D05EF799FD45F75F98FD850F950E7BB1B07683), compiling. 
+[2022.04.23-18.42.55:704][438]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2022.04.23-18.42.55:704][438]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.04.23-18.42.55:704][438]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.04.23-18.42.55:704][438]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.04.23-18.42.55:704][438]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.04.23-18.42.55:704][438]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-18.42.55:740][438]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2022.04.23-18.42.56:531][438]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.23-18.42.56:532][438]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-18.42.56:532][438]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.04.23-18.42.56:532][438]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-18.42.56:569][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.04.23-18.42.56:585][438]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.23-18.42.56:585][438]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.23-18.42.56:585][438]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.23-18.42.57:442][476]LogMaterialEditor: Saving and Compiling material Substation7_Mat
+[2022.04.23-18.43.00:370][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Substation7_Mat" FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Substation7_Mat.uasset" SILENT=true
+[2022.04.23-18.43.00:377][476]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Substation7_MatA64C934846A492160D724780AB25D756.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Substation7_Mat.uasset'
+[2022.04.23-18.43.00:409][476]AssetCheck: New page: Asset Save: Substation7_Mat
+[2022.04.23-18.43.00:409][476]LogContentValidation: Display: Validating Material /Game/Substation7_Mat.Substation7_Mat
+[2022.04.23-18.43.00:410][476]MaterialEditorStats: Base pass shader: 795 instructions
+[2022.04.23-18.43.00:410][476]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 861 instructions
+[2022.04.23-18.43.00:410][476]MaterialEditorStats: Base pass vertex shader: 271 instructions
+[2022.04.23-18.43.00:410][476]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.23-18.43.00:410][476]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.23-18.43.00:410][476]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.23-18.43.01:819][555]LogSlate: Window 'Substation7_Mat' being destroyed
+[2022.04.23-18.43.01:834][555]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.43.01:834][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.43.38:750][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.04.23-18.43.39:372][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.04.23-18.43.39:692][798]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.04.23-18.43.42:180][944]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.23-18.43.45:468][139]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.23-18.43.46:301][188]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.23-18.43.49:390][372]LogEditorViewport: Clicking on Actor (LMB): BoilerChapter_C (BoilerChapter)
+[2022.04.23-18.43.53:447][610]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2022.04.23-18.43.55:115][706]LogEditorViewport: Clicking on Actor (context menu): LightsOutChapter_C (LightsOutChapter)
+[2022.04.23-18.43.56:954][795]LogEditorViewport: Clicking on Actor (LMB): LightsOutChapter_C (LightsOutChapter)
+[2022.04.23-18.43.59:968][974]LogEditorViewport: Clicking on Actor (LMB): PowerSurgeChapter_C (PowerSurgeChapter)
+[2022.04.23-18.44.25:574][813]LogActorFactory: Actor Factory created Cube
+[2022.04.23-18.44.26:655][878]LogActorFactory: Actor Factory created Cube
+[2022.04.23-18.44.44:595][946]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2022.04.23-18.44.57:634][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.04.23-18.44.58:257][760]Cmd: DELETE
+[2022.04.23-18.44.58:257][760]Cmd: ACTOR DELETE
+[2022.04.23-18.44.58:258][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.23-18.44.58:283][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.04.23-18.44.58:290][760]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.04.23-18.45.13:106][579]LogActorFactory: Actor Factory created Shape_Trim
+[2022.04.23-18.45.13:769][618]LogActorFactory: Actor Factory created Shape_Trim
+[2022.04.23-18.45.34:952][765]LogEditorViewport: Clicking on Actor (LMB): BoilerChapter_C (BoilerChapter)
+[2022.04.23-18.45.54:227][907]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2022.04.23-18.46.03:880][483]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2022.04.23-18.46.07:954][727]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shape_Trim)
+[2022.04.23-18.46.08:378][751]LogEditorViewport: Clicking on Actor (CTRL LMB): BoilerChapter_C (BoilerChapter)
+[2022.04.23-18.46.13:267][ 27]LogEditorViewport: Clicking on Actor (LMB): LightsOutChapter_C (LightsOutChapter)
+[2022.04.23-18.46.18:323][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Trim)
+[2022.04.23-18.46.19:669][397]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shape_Trim)
+[2022.04.23-18.46.20:626][453]Cmd: EDIT COPY
+[2022.04.23-18.46.20:865][467]Cmd: EDIT PASTE
+[2022.04.23-18.46.28:550][902]LogEditorViewport: Clicking on Actor (LMB): LightsOutChapter_C (LightsOutChapter)
+[2022.04.23-18.46.47:634][ 30]Cmd: MODE ROTGRID=0
+[2022.04.23-18.46.50:301][187]Cmd: MODE ROTGRID=1
+[2022.04.23-18.46.54:633][440]Cmd: MODE ROTGRID=0
+[2022.04.23-18.46.57:095][586]Cmd: MODE ROTGRID=1
+[2022.04.23-18.47.06:926][168]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor3)
+[2022.04.23-18.47.15:481][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Trim2)
+[2022.04.23-18.47.15:689][690]Cmd: EDIT COPY
+[2022.04.23-18.47.15:922][704]Cmd: EDIT PASTE
+[2022.04.23-18.47.22:348][ 62]LogEditorViewport: Clicking on Actor (LMB): PowerSurgeChapter_C (PowerSurgeChapter)
+[2022.04.23-18.47.35:869][865]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor4)
+[2022.04.23-18.48.06:339][550]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2022.04.23-18.48.11:841][862]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor3)
+[2022.04.23-18.48.13:322][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Trim2)
+[2022.04.23-18.48.29:497][842]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.04.23-18.48.30:846][921]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.23-18.48.31:085][935]Cmd: TRANSACTION UNDO
+[2022.04.23-18.48.31:085][935]LogEditorTransaction: Undo Move Actors
+[2022.04.23-18.48.31:536][944]Cmd: TRANSACTION UNDO
+[2022.04.23-18.48.31:536][944]LogEditorTransaction: Undo Clicking on Actors
+[2022.04.23-18.48.32:365][986]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.04.23-18.48.33:884][ 75]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.23-18.48.35:209][154]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.23-18.48.35:701][183]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.04.23-18.48.36:505][229]Cmd: DELETE
+[2022.04.23-18.48.36:505][229]Cmd: ACTOR DELETE
+[2022.04.23-18.48.36:506][229]LogEditorActor: Deleted Actor: PointLight
+[2022.04.23-18.48.36:529][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.04.23-18.48.36:539][229]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.04.23-18.49.00:588][646]Cmd: EDIT COPY
+[2022.04.23-18.49.00:803][658]Cmd: EDIT PASTE
+[2022.04.23-18.49.16:949][619]Cmd: EDIT COPY
+[2022.04.23-18.49.17:165][632]Cmd: EDIT PASTE
+[2022.04.23-18.49.49:326][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2022.04.23-18.50.25:597][685]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2022.04.23-18.50.25:763][693]Cmd: EDIT COPY
+[2022.04.23-18.50.25:997][707]Cmd: EDIT PASTE
+[2022.04.23-18.50.35:306][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2022.04.23-18.50.37:029][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2022.04.23-18.50.39:358][489]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2022.04.23-18.50.49:849][115]LogEditorViewport: Clicking on Actor (LMB): Button2_C (Button)
+[2022.04.23-18.50.53:114][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.04.23-18.50.53:134][283]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/MainMenu4141F0B34C13DBE6DBE271AD30F3464C.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/MainMenu.umap'
+[2022.04.23-18.50.53:188][283]AssetCheck: New page: Asset Save: MainMenu
+[2022.04.23-18.50.53:188][283]LogContentValidation: Display: Validating World /Game/MainMenu.MainMenu
+[2022.04.23-18.50.55:494][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2022.04.23-18.50.57:443][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.04.23-18.50.57:455][529]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/MainMenu9ADDE3A14282D7FD54426C9EC92FEF16.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/MainMenu.umap'
+[2022.04.23-18.50.57:487][529]AssetCheck: New page: Asset Save: MainMenu
+[2022.04.23-18.50.57:487][529]LogContentValidation: Display: Validating World /Game/MainMenu.MainMenu
+[2022.04.23-18.51.07:787][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.04.23-18.51.08:825][818]LogSlate: Window 'Save Content' being destroyed
+[2022.04.23-18.51.08:859][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Substation7" FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Substation7.uasset" SILENT=true
+[2022.04.23-18.51.08:893][818]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Substation7569D6F954CB446A1807C2A97CB5CE1B9.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Substation7.uasset'
+[2022.04.23-18.51.09:179][818]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG00000000 wave Powersurge_script_wilton_energy...
+[2022.04.23-18.51.09:246][818]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 544578 while cooking SoundWave /Game/sounds/Powersurge_script_wilton_energy.Powersurge_script_wilton_energy.
+[2022.04.23-18.51.09:247][818]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG00000000 wave PowerSurge_SAI_1...
+[2022.04.23-18.51.09:497][818]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2473492 while cooking SoundWave /Game/sounds/PowerSurge_SAI_1.PowerSurge_SAI_1.
+[2022.04.23-18.51.09:538][818]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Office.Office
+[2022.04.23-18.51.09:538][818]Cmd: MAP LOAD FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Office.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.23-18.51.09:538][818]LightingResults: New page: Lighting Build
+[2022.04.23-18.51.09:539][818]LoadErrors: New page: Loading map: Office.umap
+[2022.04.23-18.51.09:541][818]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.51.09:541][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.51.09:542][818]MapCheck: New page: Map Check
+[2022.04.23-18.51.09:542][818]LightingResults: New page: Lighting Build
+[2022.04.23-18.51.09:563][818]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-18.51.09:569][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.04.23-18.51.09:570][818]LogAudio: Display: Audio Device (ID: 1) registered with world 'Office'.
+[2022.04.23-18.51.09:840][818]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.23-18.51.09:840][818]LogAIModule: Creating AISystem for world Office
+[2022.04.23-18.51.09:875][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.04.23-18.51.09:891][818]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.23-18.51.09:891][818]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
+[2022.04.23-18.51.09:892][818]LogFileHelpers: Loading map 'Office' took 0.354
+[2022.04.23-18.51.09:932][818]AssetCheck: New page: Asset Save: Substation7
+[2022.04.23-18.51.09:932][818]LogContentValidation: Display: Validating Texture2D /Game/Substation7.Substation7
