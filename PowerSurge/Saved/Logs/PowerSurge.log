@@ -1986,3 +1986,572 @@ BP_Sky_Sphere
 [2022.04.23-21.49.26:693][497]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/OutsideB8A818F2402847F2229293B53A4BA686.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/PowerSurge/Outside.umap'
 [2022.04.23-21.49.26:724][497]AssetCheck: New page: Asset Save: Outside
 [2022.04.23-21.49.26:724][497]LogContentValidation: Display: Validating World /Game/PowerSurge/Outside.Outside
+[2022.04.23-21.50.35:523][441]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.23-21.50.56:901][685]LogActorFactory: Actor Factory created lamp_Cone
+[2022.04.23-21.50.57:662][727]LogActorFactory: Actor Factory created lamp_Cone
+[2022.04.23-21.51.11:434][498]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.04.23-21.51.14:413][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lamp_Cone)
+[2022.04.23-21.51.32:143][709]LogContentBrowser: Deferred new asset file creation: lamp_shine1
+[2022.04.23-21.51.32:159][709]LogContentBrowser: Creating deferred item: lamp_shine1
+[2022.04.23-21.51.32:822][749]LogContentBrowser: Attempting asset rename: lamp_shine1 -> lamp_shine1
+[2022.04.23-21.51.32:824][749]LogContentBrowser: End creating deferred item lamp_shine1
+[2022.04.23-21.51.36:768][974]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.04.23-21.52.13:501][121]LogEditorViewport: Clicking on Actor (LMB): Brush (Sphere Brush)
+[2022.04.23-21.52.14:283][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lamp_Cone)
+[2022.04.23-21.52.17:497][355]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.23-21.52.24:218][739]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_28' invalid (1536 verts, 0 indices).
+[2022.04.23-21.52.24:218][739]LogPhysics: Warning: Attempt to build physics data for /Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_28.BodySetup_0 when we are unable to.
+[2022.04.23-21.52.25:629][816]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Custom_Objects/Generic_Objects/lamp/lamp_shine1.lamp_shine1
+[2022.04.23-21.52.25:637][816]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.04.23-21.52.25:775][816]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.04.23-21.52.26:110][816]LogRenderer: Reallocating scene render targets to support 1336x920 Format 10 NumSamples 1 (Frame:1).
+[2022.04.23-21.52.30:873][ 73]LogSlate: Window 'lamp_shine1' being destroyed
+[2022.04.23-21.52.30:901][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.04.23-21.52.30:943][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.04.23-21.52.30:965][ 73]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-21.52.30:965][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-21.52.32:929][171]LogContentBrowser: Deferred new asset file creation: lamp_light1
+[2022.04.23-21.52.32:957][171]LogContentBrowser: Creating deferred item: lamp_light1
+[2022.04.23-21.52.33:336][194]LogContentBrowser: Attempting asset rename: lamp_light1 -> lamp_light1
+[2022.04.23-21.52.33:338][194]LogMaterial: Display: Missing cached shadermap for lamp_light1 in PCD3D_SM5, Default, SM5 (DDC key hash: 42899D8A43F7B0EB0F3EAAE4E1F9F32B5C5D6287), compiling. 
+[2022.04.23-21.52.33:362][194]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.23-21.52.33:363][194]LogContentBrowser: End creating deferred item lamp_light1
+[2022.04.23-21.52.33:373][195]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.23-21.52.33:373][195]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.23-21.52.33:373][195]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2022.04.23-21.52.33:373][195]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2022.04.23-21.52.33:373][195]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2022.04.23-21.52.33:373][195]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2022.04.23-21.52.33:373][195]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2022.04.23-21.52.33:373][195]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.04.23-21.52.33:373][195]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.33:373][195]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.52.34:651][252]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Custom_Objects/Generic_Objects/lamp/lamp_light1.lamp_light1
+[2022.04.23-21.52.34:654][252]LogMaterial: Display: Missing cached shadermap for lamp_light1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4F55A2BF65A5CEB8221D91AC0B9B2DD6E38F5A5A), compiling. 
+[2022.04.23-21.52.34:910][252]LogMaterial: Display: Missing cached shadermap for lamp_light1 in PCD3D_SM5, Default, SM5 (DDC key hash: CD0B32B26060F4619CE18620931A22E18AA03A41), compiling. 
+[2022.04.23-21.52.34:916][252]LogMaterial: Display: Missing cached shadermap for lamp_light1 in PCD3D_SM5, Default, SM5 (DDC key hash: E6341CD13D6839E21FC9E26ED898E309F65C5283), compiling. 
+[2022.04.23-21.52.34:922][252]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 71F1B6F8F2E6F9F2EA64DA3AF1C64C79142C7125), compiling. 
+[2022.04.23-21.52.34:996][252]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-21.52.35:008][252]LogSlate: Took 0.000595 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.23-21.52.35:430][257]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.04.23-21.52.35:430][257]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.35:440][257]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.23-21.52.35:440][257]LogShaderCompilers: Display: Total job queries 552, among them cache hits 45 (8.15%)
+[2022.04.23-21.52.35:440][257]LogShaderCompilers: Display: Tracking 408 distinct input hashes that result in 119 distinct outputs (29.17%)
+[2022.04.23-21.52.35:440][257]LogShaderCompilers: Display: RAM used: 2.38 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.29%
+[2022.04.23-21.52.35:440][257]LogShaderCompilers: Display: ================================================
+[2022.04.23-21.52.35:466][258]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-21.52.35:992][274]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.52.43:175][476]LogMaterial: Display: Missing cached shadermap for lamp_light1 in PCD3D_SM5, Default, SM5 (DDC key hash: 138A83D62444356126EAD49BE28795FB72F63076), compiling. 
+[2022.04.23-21.52.43:181][476]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 60308E505DB5485DE1EC6DCD5B6D625FD43C277A), compiling. 
+[2022.04.23-21.52.43:187][476]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 76C96D892E8ED692F8F3CD51E3C67C7F19BD5647), compiling. 
+[2022.04.23-21.52.43:194][476]LogMaterial: Display: Missing cached shadermap for lamp_light1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1C3C4FE94F9AE6D5C74E5917682619EA60130589), compiling. 
+[2022.04.23-21.52.43:199][476]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B441B341FA9E0D914BC881AA2C4168C25FC3BA8F), compiling. 
+[2022.04.23-21.52.43:204][476]LogMaterial: Display: Missing cached shadermap for lamp_light1 in PCD3D_SM5, Default, SM5 (DDC key hash: 69E2DD57143E8E484F446CB7D912EF187FE7A0C2), compiling. 
+[2022.04.23-21.52.43:208][476]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.23-21.52.43:228][476]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-21.52.43:260][477]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.52.43:287][478]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.43:289][478]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.52.44:419][508]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.04.23-21.52.44:420][508]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.52.44:583][513]LogMaterialEditor: Saving and Compiling material lamp_light1
+[2022.04.23-21.52.45:612][513]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.04.23-21.52.45:613][513]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.52.45:654][513]LogMaterial: Display: Missing cached shadermap for lamp_light1 in PCD3D_SM5, Default, SM5 (DDC key hash: C1FF97F63A61A4AEE77094409172552A6BC1084D), compiling. 
+[2022.04.23-21.52.45:691][513]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.04.23-21.52.45:691][513]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.45:726][513]LogMaterial: Display: Missing cached shadermap for lamp_light1 in PCD3D_SM5, Default, SM5 (DDC key hash: A3283467FF1FD412935F0B32BE9A9C853C80185E), compiling. 
+[2022.04.23-21.52.45:790][513]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.52.45:868][513]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.45:879][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.04.23-21.52.45:892][513]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.52.55:091][513]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.23-21.52.55:091][513]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.52.55:091][513]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.04.23-21.52.55:091][513]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.52.55:091][513]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.23-21.52.55:091][513]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2022.04.23-21.52.55:091][513]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.55:091][513]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.52.55:091][513]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.04.23-21.52.55:091][513]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.55:091][513]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2022.04.23-21.52.55:091][513]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.55:092][513]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.04.23-21.52.55:092][513]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.55:092][513]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.04.23-21.52.55:092][513]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.55:092][513]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.04.23-21.52.55:092][513]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.55:092][513]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.23-21.52.55:092][513]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.55:092][513]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.23-21.52.55:092][513]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.55:094][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.04.23-21.52.55:250][513]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.23-21.52.55:250][513]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.55:250][513]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2022.04.23-21.52.55:250][513]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.55:293][513]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/lamp_light16D5A04C444E1068517A3A8B1B730CE97.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Custom_Objects/Generic_Objects/lamp/lamp_light1.uasset'
+[2022.04.23-21.52.55:318][513]AssetCheck: New page: Asset Save: lamp_light1
+[2022.04.23-21.52.55:318][513]LogContentValidation: Display: Validating Material /Game/Custom_Objects/Generic_Objects/lamp/lamp_light1.lamp_light1
+[2022.04.23-21.52.55:342][513]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.23-21.52.55:606][521]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2022.04.23-21.52.55:606][521]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.55:903][529]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.04.23-21.52.55:903][529]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.56:440][545]LogSlate: Window 'lamp_light1' being destroyed
+[2022.04.23-21.52.56:482][545]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-21.52.56:483][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-21.52.57:134][565]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.04.23-21.52.57:134][565]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.58:590][612]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Custom_Objects/Generic_Objects/lamp/lamp_shine1.lamp_shine1
+[2022.04.23-21.52.59:103][612]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.04.23-21.52.59:103][612]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.52.59:597][625]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.04.23-21.52.59:597][625]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.53.02:809][698]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.04.23-21.53.02:809][698]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.53.03:425][700]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.04.23-21.53.03:425][700]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.53.03:425][700]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.04.23-21.53.03:425][700]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.53.07:951][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.04.23-21.53.07:968][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.04.23-21.53.07:979][781]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/lamp_shine1BFE5D52345F97CBCC01BE49BF2F6C3B5.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Custom_Objects/Generic_Objects/lamp/lamp_shine1.uasset'
+[2022.04.23-21.53.08:039][781]AssetCheck: New page: Asset Save: lamp_shine1
+[2022.04.23-21.53.08:039][781]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Custom_Objects/Generic_Objects/lamp/lamp_shine1.lamp_shine1
+[2022.04.23-21.53.08:710][814]LogSlate: Window 'lamp_shine1' being destroyed
+[2022.04.23-21.53.08:734][814]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-21.53.08:734][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-21.53.19:208][422]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_29' invalid (1536 verts, 0 indices).
+[2022.04.23-21.53.19:208][422]LogPhysics: Warning: Attempt to build physics data for /Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_29.BodySetup_0 when we are unable to.
+[2022.04.23-21.53.20:126][475]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_30' invalid (1536 verts, 0 indices).
+[2022.04.23-21.53.20:126][475]LogPhysics: Warning: Attempt to build physics data for /Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_30.BodySetup_0 when we are unable to.
+[2022.04.23-21.53.21:594][559]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_31' invalid (1536 verts, 0 indices).
+[2022.04.23-21.53.21:594][559]LogPhysics: Warning: Attempt to build physics data for /Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_31.BodySetup_0 when we are unable to.
+[2022.04.23-21.53.22:508][611]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_32' invalid (1536 verts, 0 indices).
+[2022.04.23-21.53.22:509][611]LogPhysics: Warning: Attempt to build physics data for /Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_32.BodySetup_0 when we are unable to.
+[2022.04.23-21.53.23:374][661]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_33' invalid (1536 verts, 0 indices).
+[2022.04.23-21.53.23:374][661]LogPhysics: Warning: Attempt to build physics data for /Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_33.BodySetup_0 when we are unable to.
+[2022.04.23-21.53.25:771][801]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_34' invalid (1536 verts, 0 indices).
+[2022.04.23-21.53.25:771][801]LogPhysics: Warning: Attempt to build physics data for /Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_34.BodySetup_0 when we are unable to.
+[2022.04.23-21.53.32:561][198]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.04.23-21.53.47:810][ 34]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LightsOut/light_flickers/flicker_lf_3.flicker_lf_3
+[2022.04.23-21.53.47:811][ 34]LogMaterial: Display: Missing cached shadermap for flicker_lf_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 2AAD764EDCBB086C1819196AED604B3A1DC41FEF), compiling. 
+[2022.04.23-21.53.47:818][ 34]LogShaderCompilers: Display: Submitted 3 shader compile jobs with 'Normal' priority
+[2022.04.23-21.53.47:940][ 34]LogMaterial: Display: Missing cached shadermap for flicker_lf_3 in PCD3D_SM5, Default, SM5 (DDC key hash: EA8565A76659C37E5EC280B81A7ED4FDDC64718D), compiling. 
+[2022.04.23-21.53.47:943][ 34]LogMaterial: Display: Missing cached shadermap for flicker_lf_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 69075748BEFD46E85199F6604CFAD75A18C322A0), compiling. 
+[2022.04.23-21.53.47:945][ 34]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6087D26F516C5C31EDAE39217EA14B886C4D785F), compiling. 
+[2022.04.23-21.53.47:972][ 34]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-21.53.48:048][ 35]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.53.48:048][ 35]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.04.23-21.53.48:048][ 35]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.23-21.53.48:048][ 35]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.23-21.53.48:049][ 35]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.23-21.53.48:049][ 35]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.53.48:049][ 35]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.53.48:210][ 41]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.53.48:210][ 41]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.04.23-21.53.48:210][ 41]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.04.23-21.53.48:211][ 41]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.53.49:410][ 84]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-21.53.49:481][ 87]MaterialEditorStats: Base pass shader without light map: 124 instructions
+[2022.04.23-21.53.49:481][ 87]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.04.23-21.53.49:481][ 87]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-21.53.53:775][331]LogSlate: Window 'flicker_lf_3' being destroyed
+[2022.04.23-21.53.53:783][331]LogSlate: Window 'flicker_lf_3' being destroyed
+[2022.04.23-21.53.53:803][331]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-21.53.53:803][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-21.53.59:792][669]LogContentBrowser: Deferred new asset file creation: flicker_lf_5
+[2022.04.23-21.53.59:824][669]LogContentBrowser: Creating deferred item: flicker_lf_5
+[2022.04.23-21.54.00:779][725]LogContentBrowser: Attempting asset rename: flicker_lf_5 -> flicker_lf_5
+[2022.04.23-21.54.00:787][725]LogMaterial: Display: Missing cached shadermap for flicker_lf_5 in PCD3D_SM5, Default, SM5 (DDC key hash: B9EE72FA070834BE3B8D18677B2F407C9A2B9721), compiling. 
+[2022.04.23-21.54.00:827][725]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2022.04.23-21.54.00:827][725]LogContentBrowser: End creating deferred item flicker_lf_5
+[2022.04.23-21.54.00:838][726]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.23-21.54.00:838][726]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.23-21.54.00:838][726]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2022.04.23-21.54.00:838][726]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.04.23-21.54.00:838][726]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2022.04.23-21.54.00:838][726]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.04.23-21.54.00:838][726]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.04.23-21.54.00:838][726]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.04.23-21.54.00:838][726]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.54.00:838][726]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-21.54.02:050][779]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LightsOut/light_flickers/flicker_lf_5.flicker_lf_5
+[2022.04.23-21.54.02:053][779]LogMaterial: Display: Missing cached shadermap for flicker_lf_5 in PCD3D_SM5, Default, SM5 (DDC key hash: B9A881B4FAF7BC3D98A5E948610136C151AC732E), compiling. 
+[2022.04.23-21.54.02:240][779]LogMaterial: Display: Missing cached shadermap for flicker_lf_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 3D5A31449984EB07D13AD2BB46AF4C045BA8251D), compiling. 
+[2022.04.23-21.54.02:247][779]LogMaterial: Display: Missing cached shadermap for flicker_lf_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 3F5BC3ED9F551362ED5F7A3A2E53E3042571BAE3), compiling. 
+[2022.04.23-21.54.02:252][779]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BC9AF8C77B92F94CD2780B9054F150562CEE5C6E), compiling. 
+[2022.04.23-21.54.02:323][779]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-21.54.02:483][780]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.04.23-21.54.02:483][780]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.54.02:498][780]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-21.54.02:559][781]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.23-21.54.02:560][781]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.54.02:780][790]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.04.23-21.54.02:781][790]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-21.54.03:415][811]MaterialEditorStats: Base pass shader without light map: 124 instructions
+[2022.04.23-21.54.03:415][811]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.04.23-21.54.03:415][811]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-21.54.04:740][883]LogMaterial: Display: Missing cached shadermap for flicker_lf_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 88D8D56A5C5112C381B270FE6ABDA78BDB1935C1), compiling. 
+[2022.04.23-21.54.04:743][883]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 422BCAE846D3A6C70E591308DF5411D89166D33D), compiling. 
+[2022.04.23-21.54.04:747][883]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-21.54.04:796][885]MaterialEditorStats: Base pass shader without light map: 124 instructions
+[2022.04.23-21.54.04:796][885]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.04.23-21.54.04:796][885]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-21.54.06:660][993]LogMaterial: Display: Missing cached shadermap for flicker_lf_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 42FD45C1EA743D8A3E5C8746558C858FC4F458C1), compiling. 
+[2022.04.23-21.54.06:661][993]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3A1E1CF780324050485EE61343FF6A7D39D347DF), compiling. 
+[2022.04.23-21.54.06:664][993]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-21.54.06:691][995]MaterialEditorStats: Base pass shader without light map: 124 instructions
+[2022.04.23-21.54.06:691][995]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.04.23-21.54.06:691][995]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-21.54.08:485][ 91]LogMaterial: Display: Missing cached shadermap for flicker_lf_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 76FF62C66BF86AE6B2B316A545824B10DDB9F4AC), compiling. 
+[2022.04.23-21.54.08:487][ 91]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DA04A4895A90E7E7A44A6D2491D5C764783DF14B), compiling. 
+[2022.04.23-21.54.08:489][ 91]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-21.54.08:519][ 93]MaterialEditorStats: Base pass shader without light map: 124 instructions
+[2022.04.23-21.54.08:519][ 93]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.04.23-21.54.08:519][ 93]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-21.54.09:302][129]LogMaterial: Display: Missing cached shadermap for flicker_lf_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 3E04EFB88A2804F6233BCD56C97C2EC26C918C0E), compiling. 
+[2022.04.23-21.54.09:305][129]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A9F30EE999955B34EC0F19EF32F69945BC80CBC), compiling. 
+[2022.04.23-21.54.09:307][129]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-21.54.09:338][131]MaterialEditorStats: Base pass shader without light map: 124 instructions
+[2022.04.23-21.54.09:338][131]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.04.23-21.54.09:338][131]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-21.54.10:869][207]LogMaterial: Display: Missing cached shadermap for flicker_lf_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 38C816360E1FEB811C0012C122D01C35D7050BC6), compiling. 
+[2022.04.23-21.54.10:871][207]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F4792BD8B6CDA6E9859A92C67966A95647C88BB), compiling. 
+[2022.04.23-21.54.10:874][207]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-21.54.10:904][209]MaterialEditorStats: Base pass shader without light map: 124 instructions
+[2022.04.23-21.54.10:904][209]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.04.23-21.54.10:904][209]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-21.54.11:456][241]LogMaterial: Display: Missing cached shadermap for flicker_lf_5 in PCD3D_SM5, Default, SM5 (DDC key hash: B79885CFB4E2C452328B47486D70670C0E3ED927), compiling. 
+[2022.04.23-21.54.11:458][241]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 658A7CE9C11B0EF1547E5B5C10C8D337ECEDCA7C), compiling. 
+[2022.04.23-21.54.11:459][241]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.23-21.54.11:467][241]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-21.54.11:497][243]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-21.54.11:514][244]MaterialEditorStats: Base pass shader without light map: 124 instructions
+[2022.04.23-21.54.11:514][244]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.04.23-21.54.11:514][244]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-21.54.14:880][330]LogSlate: Window 'Message' being destroyed
+[2022.04.23-21.54.14:890][330]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/LightsOut/light_flickers/flicker_lf_5.flicker_lf_5
+(Selecting 'No' will cause all changes to be lost!)
+[2022.04.23-21.54.15:305][330]LogMaterial: Display: Missing cached shadermap for flicker_lf_5 in PCD3D_SM5, Default, SM5 (DDC key hash: EA82D41FD67EFCEB71705FE829CDD5D4B12E1374), compiling. 
+[2022.04.23-21.54.15:363][330]LogMaterial: Display: Missing cached shadermap for flicker_lf_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 0725B1B40CBAED874CA7BF77F8F2AEBC127EB05E), compiling. 
+[2022.04.23-21.54.15:401][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.04.23-21.54.15:520][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.04.23-21.54.15:531][330]LogSlate: Window 'flicker_lf_5' being destroyed
+[2022.04.23-21.54.15:533][330]LogSlate: Window 'flicker_lf_5' being destroyed
+[2022.04.23-21.54.15:542][330]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-21.54.15:542][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-21.54.20:488][615]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.04.23-21.59.26:844][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.04.23-21.59.26:948][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Outside_Auto1F213E00440A9611DB0C0B0BAD0F4C373.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Outside_Auto1.umap'
+[2022.04.23-21.59.26:949][658]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PowerSurge/Outside' took 0.116
+[2022.04.23-21.59.26:949][658]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.116
+[2022.04.23-21.59.26:951][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/briks_2] ([1] browsable assets)...
+[2022.04.23-21.59.26:959][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/briks_2.briks_2]
+[2022.04.23-21.59.26:959][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/briks_2]
+[2022.04.23-21.59.26:973][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/briks_2_Auto154AB137A4CB3B8CA65E080A24FF8A975.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/briks_2_Auto1.uasset'
+[2022.04.23-21.59.26:974][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/briks_2_bump] ([1] browsable assets)...
+[2022.04.23-21.59.26:981][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/briks_2_bump.briks_2_bump]
+[2022.04.23-21.59.26:981][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/briks_2_bump]
+[2022.04.23-21.59.26:996][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/briks_2_bump_Auto1BED945B84DCF9CDA70BEEFBEF682C1A8.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/briks_2_bump_Auto1.uasset'
+[2022.04.23-21.59.26:998][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/briks_2_spec] ([1] browsable assets)...
+[2022.04.23-21.59.27:004][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/briks_2_spec.briks_2_spec]
+[2022.04.23-21.59.27:004][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/briks_2_spec]
+[2022.04.23-21.59.27:013][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/briks_2_spec_Auto1DAA0808F4DC3553D8159618D79E7FF10.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/briks_2_spec_Auto1.uasset'
+[2022.04.23-21.59.27:015][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/briks_4] ([1] browsable assets)...
+[2022.04.23-21.59.27:021][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/briks_4.briks_4]
+[2022.04.23-21.59.27:021][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/briks_4]
+[2022.04.23-21.59.27:042][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/briks_4_Auto1DF13AFBA445768533A10968631E3D8CE.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/briks_4_Auto1.uasset'
+[2022.04.23-21.59.27:043][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/briks_4_bump] ([1] browsable assets)...
+[2022.04.23-21.59.27:050][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/briks_4_bump.briks_4_bump]
+[2022.04.23-21.59.27:050][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/briks_4_bump]
+[2022.04.23-21.59.27:071][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/briks_4_bump_Auto1E1D8E07147AACBA4FD18F9B2844497C5.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/briks_4_bump_Auto1.uasset'
+[2022.04.23-21.59.27:072][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/briks_4_spec] ([1] browsable assets)...
+[2022.04.23-21.59.27:079][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/briks_4_spec.briks_4_spec]
+[2022.04.23-21.59.27:079][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/briks_4_spec]
+[2022.04.23-21.59.27:096][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/briks_4_spec_Auto15354F54C4930FEE814026880A587ACDE.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/briks_4_spec_Auto1.uasset'
+[2022.04.23-21.59.27:097][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/creat_beton_9] ([1] browsable assets)...
+[2022.04.23-21.59.27:104][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/creat_beton_9.creat_beton_9]
+[2022.04.23-21.59.27:104][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/creat_beton_9]
+[2022.04.23-21.59.27:111][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/creat_beton_9_Auto1DB2C22C541F0650CF34E3EB76E80970D.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/creat_beton_9_Auto1.uasset'
+[2022.04.23-21.59.27:112][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/creat_beton_9_bump] ([1] browsable assets)...
+[2022.04.23-21.59.27:120][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/creat_beton_9_bump.creat_beton_9_bump]
+[2022.04.23-21.59.27:120][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/creat_beton_9_bump]
+[2022.04.23-21.59.27:130][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/creat_beton_9_bump_Auto11A3E013446ECAE344DB4FA88E14D7CF3.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/creat_beton_9_bump_Auto1.uasset'
+[2022.04.23-21.59.27:131][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/creat_beton_9_spec] ([1] browsable assets)...
+[2022.04.23-21.59.27:137][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/creat_beton_9_spec.creat_beton_9_spec]
+[2022.04.23-21.59.27:137][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/creat_beton_9_spec]
+[2022.04.23-21.59.27:144][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/creat_beton_9_spec_Auto1A6A92C144ADAA22AF476BEAE1AD73E6B.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/creat_beton_9_spec_Auto1.uasset'
+[2022.04.23-21.59.27:145][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/door_tp_1] ([1] browsable assets)...
+[2022.04.23-21.59.27:157][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/door_tp_1.door_tp_1]
+[2022.04.23-21.59.27:157][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/door_tp_1]
+[2022.04.23-21.59.27:162][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/door_tp_1_Auto1642F19B3447C4A59E5D5839837006BBD.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/door_tp_1_Auto1.uasset'
+[2022.04.23-21.59.27:163][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/door_tp_1_bump] ([1] browsable assets)...
+[2022.04.23-21.59.27:171][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/door_tp_1_bump.door_tp_1_bump]
+[2022.04.23-21.59.27:171][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/door_tp_1_bump]
+[2022.04.23-21.59.27:178][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/door_tp_1_bump_Auto17ECEEEF0482D9C4F01CF42B9032A8FD5.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/door_tp_1_bump_Auto1.uasset'
+[2022.04.23-21.59.27:179][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/door_tp_1_spec] ([1] browsable assets)...
+[2022.04.23-21.59.27:186][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/door_tp_1_spec.door_tp_1_spec]
+[2022.04.23-21.59.27:186][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/door_tp_1_spec]
+[2022.04.23-21.59.27:190][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/door_tp_1_spec_Auto1D74DF08F4B6006DB1DA82EAE4E10B1EC.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/door_tp_1_spec_Auto1.uasset'
+[2022.04.23-21.59.27:191][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/door_tp_2] ([1] browsable assets)...
+[2022.04.23-21.59.27:195][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/door_tp_2.door_tp_2]
+[2022.04.23-21.59.27:195][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/door_tp_2]
+[2022.04.23-21.59.27:199][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/door_tp_2_Auto1C74D632849829D824AC47480DFA63341.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/door_tp_2_Auto1.uasset'
+[2022.04.23-21.59.27:200][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/door_tp_2_bump] ([1] browsable assets)...
+[2022.04.23-21.59.27:204][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/door_tp_2_bump.door_tp_2_bump]
+[2022.04.23-21.59.27:204][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/door_tp_2_bump]
+[2022.04.23-21.59.27:208][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/door_tp_2_bump_Auto1B07AFE6048E8C076773906A5FA2B1068.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/door_tp_2_bump_Auto1.uasset'
+[2022.04.23-21.59.27:209][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/door_tp_2_spec] ([1] browsable assets)...
+[2022.04.23-21.59.27:213][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/door_tp_2_spec.door_tp_2_spec]
+[2022.04.23-21.59.27:213][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/door_tp_2_spec]
+[2022.04.23-21.59.27:216][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/door_tp_2_spec_Auto1A4A8C6034322446FF0E161B8A7CA0576.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/door_tp_2_spec_Auto1.uasset'
+[2022.04.23-21.59.27:217][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/door_tp_3] ([1] browsable assets)...
+[2022.04.23-21.59.27:223][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/door_tp_3.door_tp_3]
+[2022.04.23-21.59.27:223][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/door_tp_3]
+[2022.04.23-21.59.27:229][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/door_tp_3_Auto1B8D9FF8E48F5A868216F2781F4791973.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/door_tp_3_Auto1.uasset'
+[2022.04.23-21.59.27:231][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/door_tp_3_bump] ([1] browsable assets)...
+[2022.04.23-21.59.27:239][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/door_tp_3_bump.door_tp_3_bump]
+[2022.04.23-21.59.27:239][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/door_tp_3_bump]
+[2022.04.23-21.59.27:246][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/door_tp_3_bump_Auto1113490AC494B0C9357E6109A94B90256.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/door_tp_3_bump_Auto1.uasset'
+[2022.04.23-21.59.27:247][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/door_tp_3_spec] ([1] browsable assets)...
+[2022.04.23-21.59.27:254][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/door_tp_3_spec.door_tp_3_spec]
+[2022.04.23-21.59.27:254][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/door_tp_3_spec]
+[2022.04.23-21.59.27:260][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/door_tp_3_spec_Auto10DAC9CC841D9B75D58C7ABB82EF6077E.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/door_tp_3_spec_Auto1.uasset'
+[2022.04.23-21.59.27:261][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/door_tp_4] ([1] browsable assets)...
+[2022.04.23-21.59.27:268][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/door_tp_4.door_tp_4]
+[2022.04.23-21.59.27:268][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/door_tp_4]
+[2022.04.23-21.59.27:278][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/door_tp_4_Auto1284297514BE967A6FED45BA4F5884E7E.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/door_tp_4_Auto1.uasset'
+[2022.04.23-21.59.27:279][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/door_tp_4_bump] ([1] browsable assets)...
+[2022.04.23-21.59.27:286][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/door_tp_4_bump.door_tp_4_bump]
+[2022.04.23-21.59.27:287][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/door_tp_4_bump]
+[2022.04.23-21.59.27:299][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/door_tp_4_bump_Auto1659C36E046557FA0B7035392643B50AF.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/door_tp_4_bump_Auto1.uasset'
+[2022.04.23-21.59.27:300][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/door_tp_4_spec] ([1] browsable assets)...
+[2022.04.23-21.59.27:307][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PowerSurge/Building/door_tp_4_spec.door_tp_4_spec]
+[2022.04.23-21.59.27:307][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/door_tp_4_spec]
+[2022.04.23-21.59.27:318][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/door_tp_4_spec_Auto14470A3F6403FC3ADE0DCDA9709BA1480.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/door_tp_4_spec_Auto1.uasset'
+[2022.04.23-21.59.27:318][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/Building/el_podstation] ([1] browsable assets)...
+[2022.04.23-21.59.27:335][658]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/PowerSurge/Building/el_podstation.el_podstation]
+[2022.04.23-21.59.27:335][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/Building/el_podstation]
+[2022.04.23-21.59.27:348][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/el_podstation_Auto13CB3A749409157D03D5475B935AE6DE5.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/Building/el_podstation_Auto1.uasset'
+[2022.04.23-21.59.27:349][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LightsOut/light_flickers/flicker_lf_5] ([1] browsable assets)...
+[2022.04.23-21.59.27:364][658]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LightsOut/light_flickers/flicker_lf_5.flicker_lf_5]
+[2022.04.23-21.59.27:364][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/LightsOut/light_flickers/flicker_lf_5]
+[2022.04.23-21.59.27:371][658]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/flicker_lf_5_Auto1E94A2A6842F622C63C82D4A6BE9BE43F.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/LightsOut/light_flickers/flicker_lf_5_Auto1.uasset'
+[2022.04.23-21.59.27:372][658]LogFileHelpers: Auto-saving content packages took 0.421
+[2022.04.23-22.07.50:619][161]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.04.23-22.17.21:875][153]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.23-22.17.21:904][153]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.23-22.17.23:371][239]LogContentBrowser: Attempting asset rename: NewFolder -> City
+[2022.04.23-22.17.23:372][239]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.23-22.17.26:044][320]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Maximo\Documents\3D Models\city.fbx)
+[2022.04.23-22.17.26:067][320]LogFbx: Loading FBX Scene from C:\Users\Maximo\Documents\3D Models\city.fbx
+[2022.04.23-22.17.26:133][320]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.23-22.17.27:283][320]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.23-22.17.27:306][320]LogMaterial: Display: Missing cached shadermap for building in PCD3D_SM5, Default, SM5 (DDC key hash: 6697930880BD1C51BAC492A7F2EBDDC77EDEE700), compiling. 
+[2022.04.23-22.17.27:309][320]LogFbx: Display: Triangulating static mesh extra_build_from_turbocg_com
+[2022.04.23-22.17.30:426][320]LogStaticMesh: Building static mesh city...
+[2022.04.23-22.17.31:610][320]LogStaticMesh: Built static mesh [1.18s] /Game/PowerSurge/City/city.city
+[2022.04.23-22.17.32:109][320]LogStaticMesh: Warning: city has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.23-22.17.32:110][320]LogStaticMesh: Warning: city has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.23-22.17.32:614][320]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.23-22.17.32:614][320]FBXImport: Warning: city has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.23-22.17.32:614][320]FBXImport: Warning: city has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.23-22.17.33:232][325]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-22.17.33:232][325]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.23-22.17.33:232][325]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.23-22.17.33:232][325]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-22.17.33:250][325]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.23-22.17.33:250][325]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.04.23-22.17.33:250][325]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.04.23-22.17.33:250][325]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.04.23-22.17.33:250][325]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.04.23-22.17.33:250][325]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.04.23-22.17.33:250][325]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.23-22.17.33:250][325]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-22.17.34:530][387]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/PowerSurge/City/building.building
+[2022.04.23-22.17.34:533][387]LogMaterial: Display: Missing cached shadermap for building in PCD3D_SM5, Default, SM5 (DDC key hash: 8F15069C76579C4FB1560464EADFA9D78B113EE8), compiling. 
+[2022.04.23-22.17.34:725][387]LogMaterial: Display: Missing cached shadermap for building in PCD3D_SM5, Default, SM5 (DDC key hash: BD4EBB1DA063E20C6BF1E3F3B92BA81664065523), compiling. 
+[2022.04.23-22.17.34:730][387]LogMaterial: Display: Missing cached shadermap for building in PCD3D_SM5, Default, SM5 (DDC key hash: F4B7882E4A924BC5C5BD6E939C568531324CB539), compiling. 
+[2022.04.23-22.17.34:735][387]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 920BEC101A387DBDE38D2818CBB08A2B47E2F50D), compiling. 
+[2022.04.23-22.17.34:788][387]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-22.17.34:925][388]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.23-22.17.34:926][388]LogShaderCompilers: Display: Total job queries 762, among them cache hits 134 (17.59%)
+[2022.04.23-22.17.34:926][388]LogShaderCompilers: Display: Tracking 484 distinct input hashes that result in 174 distinct outputs (35.95%)
+[2022.04.23-22.17.34:926][388]LogShaderCompilers: Display: RAM used: 3.17 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.39%
+[2022.04.23-22.17.34:926][388]LogShaderCompilers: Display: ================================================
+[2022.04.23-22.17.35:148][396]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.04.23-22.17.35:148][396]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.23-22.17.35:148][396]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-22.17.35:158][396]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-22.17.42:335][648]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.23-22.17.46:868][851]MaterialEditorStats: Base pass shader: 793 instructions
+[2022.04.23-22.17.46:868][851]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 860 instructions
+[2022.04.23-22.17.46:868][851]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.04.23-22.17.46:868][851]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.23-22.18.02:654][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.04.23-22.18.02:656][898]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PowerSurge/Outside' took 0.011
+[2022.04.23-22.18.02:656][898]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PowerSurge/City/city] ([1] browsable assets)...
+[2022.04.23-22.18.02:673][898]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/PowerSurge/City/city.city]
+[2022.04.23-22.18.02:673][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/PowerSurge/City/city]
+[2022.04.23-22.18.02:924][898]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/city_Auto229BEB78B45F07C60D99D3C89823F1685.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Autosaves/Game/PowerSurge/City/city_Auto2.uasset'
+[2022.04.23-22.18.02:926][898]LogFileHelpers: Auto-saving content packages took 0.270
+[2022.04.23-22.20.33:321][419]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\HighRiseNight0058_1_350_light_mask.jpg)
+[2022.04.23-22.20.33:329][419]LogTexture: Display: Building textures: HighRiseNight0058_1_350_light_mask (BGRA8, 364X350)
+[2022.04.23-22.20.33:333][419]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\HighRiseNight0058_1_350.jpg)
+[2022.04.23-22.20.33:336][419]LogTexture: Display: Building textures: HighRiseNight0058_1_350 (BGRA8, 364X350)
+[2022.04.23-22.20.37:244][607]LogMaterial: Display: Missing cached shadermap for building in PCD3D_SM5, Default, SM5 (DDC key hash: 5228B152A91E8C8672EBF869FE7D23A51318D3B8), compiling. 
+[2022.04.23-22.20.37:246][607]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6B71B043124EB2D05BEC3CD82C00604E83FC4AD3), compiling. 
+[2022.04.23-22.20.37:247][607]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5E4E2C2EFE02FFE994F32DDAA656910E2790AE1F), compiling. 
+[2022.04.23-22.20.37:248][607]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E6AA4E7FAED3E60238027F2560A0EABE2E19859), compiling. 
+[2022.04.23-22.20.37:256][607]LogMaterial: Display: Missing cached shadermap for building in PCD3D_SM5, Default, SM5 (DDC key hash: 57E1303BC6896791F56C02323693D822BC3DDB85), compiling. 
+[2022.04.23-22.20.37:258][607]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FCAEC2C91C5EA804141512B692F6342FBD4E7823), compiling. 
+[2022.04.23-22.20.37:259][607]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 73932465B54CCE7D3809836A0173BB75FBB4B00E), compiling. 
+[2022.04.23-22.20.37:260][607]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 067D444F29AD148B1976F6AC61BA0C0A132CA3B0), compiling. 
+[2022.04.23-22.20.37:261][607]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8124723B1B55F5C7196D03E630E0B75EF5180164), compiling. 
+[2022.04.23-22.20.37:267][607]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-22.20.37:320][608]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-22.20.37:320][608]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-22.20.37:320][608]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.04.23-22.20.37:320][608]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.04.23-22.20.37:320][608]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.04.23-22.20.37:321][608]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.04.23-22.20.37:321][608]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-22.20.37:321][608]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.23-22.20.37:321][608]LogShaderCompilers: Display: Total job queries 779, among them cache hits 147 (18.87%)
+[2022.04.23-22.20.37:321][608]LogShaderCompilers: Display: Tracking 500 distinct input hashes that result in 185 distinct outputs (37.00%)
+[2022.04.23-22.20.37:321][608]LogShaderCompilers: Display: RAM used: 3.38 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.41%
+[2022.04.23-22.20.37:321][608]LogShaderCompilers: Display: ================================================
+[2022.04.23-22.20.37:321][608]MaterialEditorStats: Base pass shader: 793 instructions
+[2022.04.23-22.20.37:321][608]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 860 instructions
+[2022.04.23-22.20.37:321][608]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.04.23-22.20.37:321][608]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.23-22.20.44:516][985]LogMaterial: Display: Missing cached shadermap for building in PCD3D_SM5, Default, SM5 (DDC key hash: 077EAC3BC2C74ECD01C4890D96A5878563F28282), compiling. 
+[2022.04.23-22.20.44:518][985]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-22.20.44:568][986]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-22.20.44:569][986]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.23-22.20.44:569][986]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.23-22.20.44:569][986]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-22.20.44:569][986]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.04.23-22.20.44:590][987]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.04.23-22.20.44:590][987]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.04.23-22.20.44:590][987]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.04.23-22.20.44:590][987]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.04.23-22.20.44:590][987]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-22.20.45:993][ 53]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-22.20.48:460][143]LogMaterial: Display: Missing cached shadermap for building in PCD3D_SM5, Default, SM5 (DDC key hash: E19E22811B6D28D073A9F2D0630886A601C64761), compiling. 
+[2022.04.23-22.20.48:464][143]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1E555ADCFA6FD9F59BA75C6BAC3E34313EDA9805), compiling. 
+[2022.04.23-22.20.48:472][143]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-22.20.48:472][143]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.23-22.20.48:472][143]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.23-22.20.48:493][144]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-22.20.48:493][144]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.04.23-22.20.48:493][144]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.04.23-22.20.48:493][144]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-22.20.48:529][145]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.04.23-22.20.48:529][145]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.04.23-22.20.48:529][145]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-22.20.50:404][209]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.04.23-22.20.50:404][209]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-22.20.50:456][210]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-22.20.50:457][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.23-22.20.50:457][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.23-22.20.52:031][261]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.23-22.20.52:031][261]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-22.20.52:179][265]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.04.23-22.20.52:179][265]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-22.20.52:706][285]LogMaterial: Display: Missing cached shadermap for building in PCD3D_SM5, Default, SM5 (DDC key hash: 35FB01356EE983B5D7461DF0C59FBA518D9B1CEE), compiling. 
+[2022.04.23-22.20.52:712][285]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1CA3CA6EC90B4A907E022A6E62E6DFCCE00C2775), compiling. 
+[2022.04.23-22.20.52:727][285]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.23-22.20.52:727][285]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.23-22.20.52:728][285]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.23-22.20.52:800][285]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-22.20.52:800][285]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.04.23-22.20.53:396][305]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.04.23-22.20.53:396][305]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-22.20.53:997][322]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.04.23-22.20.53:997][322]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-22.20.54:073][324]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.04.23-22.20.54:073][324]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-22.20.55:615][380]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.04.23-22.20.55:615][380]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-22.20.55:644][381]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-22.20.55:644][381]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.23-22.20.55:644][381]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.23-22.20.57:292][451]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.04.23-22.20.57:292][451]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-22.20.58:114][485]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.04.23-22.20.58:114][485]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-22.20.59:794][553]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.04.23-22.20.59:794][553]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-22.21.01:413][620]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.23-22.21.01:413][620]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-22.21.02:246][654]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.04.23-22.21.02:246][654]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-22.21.03:311][697]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.23-22.21.03:311][697]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.23-22.21.03:311][697]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.23-22.21.10:944][ 98]MaterialEditorStats: Base pass shader: 795 instructions
+[2022.04.23-22.21.10:944][ 98]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 861 instructions
+[2022.04.23-22.21.10:944][ 98]MaterialEditorStats: Base pass vertex shader: 271 instructions
+[2022.04.23-22.21.10:944][ 98]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.23-22.21.10:944][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.23-22.21.10:944][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.23-22.21.12:470][187]LogMaterialEditor: Saving and Compiling material building
+[2022.04.23-22.21.12:981][187]LogMaterial: Display: Missing cached shadermap for building in PCD3D_SM5, Default, SM5 (DDC key hash: F0AD8B6DF86552C2A30CD8CADA09192BF7A69B2E), compiling. 
+[2022.04.23-22.21.13:015][187]LogMaterial: Display: Missing cached shadermap for building in PCD3D_SM5, Default, SM5 (DDC key hash: BF9B5CE2ACC75002DA051EBE9CBBF7ED7DA60756), compiling. 
+[2022.04.23-22.21.13:029][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.04.23-22.21.13:038][187]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.04.23-22.21.13:368][187]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.04.23-22.21.13:368][187]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.23-22.21.13:378][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.23-22.21.13:433][187]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.04.23-22.21.13:445][187]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.04.23-22.21.13:445][187]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.04.23-22.21.13:445][187]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.04.23-22.21.13:445][187]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.04.23-22.21.13:445][187]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.04.23-22.21.13:445][187]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.04.23-22.21.13:458][187]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/buildingCACA8E7948F06AA4B8E645A0C8EB77FF.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/PowerSurge/City/building.uasset'
+[2022.04.23-22.21.13:477][187]AssetCheck: New page: Asset Save: building
+[2022.04.23-22.21.13:477][187]LogContentValidation: Display: Validating Material /Game/PowerSurge/City/building.building
+[2022.04.23-22.21.13:521][187]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.23-22.21.13:521][187]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.23-22.21.13:521][187]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.23-22.21.14:216][221]LogSlate: Window 'building' being destroyed
+[2022.04.23-22.21.14:240][221]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-22.21.14:240][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-22.21.17:879][423]LogActorFactory: Actor Factory created city
+[2022.04.23-22.21.19:292][504]LogActorFactory: Actor Factory created city
+[2022.04.23-22.21.42:372][828]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.04.23-22.21.47:581][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (city)
+[2022.04.23-22.22.02:853][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (city)
+[2022.04.23-22.22.03:404][ 46]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.04.23-22.22.26:491][360]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.04.23-22.22.56:970][ 46]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.04.23-22.23.17:519][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (city)
+[2022.04.23-22.23.23:121][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.04.23-22.23.23:163][574]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2022.04.23-22.23.23:164][574]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2022.04.23-22.23.23:165][574]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2022.04.23-22.23.23:166][574]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2022.04.23-22.23.23:167][574]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2022.04.23-22.23.23:168][574]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2022.04.23-22.23.23:169][574]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2022.04.23-22.23.23:170][574]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2022.04.23-22.23.23:171][574]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2022.04.23-22.23.23:171][574]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2022.04.23-22.23.23:172][574]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2022.04.23-22.23.23:173][574]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2022.04.23-22.23.23:174][574]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2022.04.23-22.23.23:175][574]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2022.04.23-22.23.23:177][574]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2022.04.23-22.23.23:178][574]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2022.04.23-22.23.23:280][574]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/OutsideB6A3DDFD43FE7325C14D4DAA1FB8EFBB.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/PowerSurge/Outside.umap'
+[2022.04.23-22.23.23:316][574]AssetCheck: New page: Asset Save: Outside
+[2022.04.23-22.23.23:316][574]LogContentValidation: Display: Validating World /Game/PowerSurge/Outside.Outside
