@@ -1315,3 +1315,134 @@ Button
 [2022.04.23-21.31.48:844][804]LogSwarmInterface: [TryOpenConnection] Testing the Agent
 [2022.04.23-21.31.49:355][804]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
 [2022.04.23-21.31.49:355][804]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4188
+[2022.04.23-21.32.00:696][804]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.04.23-21.32.00:697][804]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.04.23-21.32.00:698][804]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.04.23-21.32.00:698][804]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.04.23-21.32.00:698][804]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.04.23-21.32.00:698][804]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.04.23-21.32.00:894][804]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.04.23-21.32.00:894][804]MapCheck: New page: Museum - Apr 23, 2022, 1:32:00 PM
+[2022.04.23-21.32.00:923][804]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.04.23-21.32.00:923][804]MapCheck: Warning: desk_2 Static mesh actor has NULL StaticMesh property 
+[2022.04.23-21.32.00:923][804]MapCheck: Warning: desk2 Static mesh actor has NULL StaticMesh property 
+[2022.04.23-21.32.00:924][804]MapCheck: Warning: music_Cue_0 Ambient sound actor has NULL Sound Cue property 
+[2022.04.23-21.32.00:924][804]MapCheck: Warning: Plane5 Plane5 is in the same location as Plane6 
+[2022.04.23-21.32.00:924][804]MapCheck: Warning: Plane6 Plane6 is in the same location as Plane5 
+[2022.04.23-21.32.00:924][804]MapCheck: Map check complete: 1 Error(s), 5 Warning(s), took 30.888ms to complete.
+[2022.04.23-21.32.00:926][804]LogEditorBuildUtils: Build time 0:16
+[2022.04.23-21.32.00:998][804]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Substation7_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7E2EA974067F0A3A6E79496EB81322FE40E95C93), compiling. 
+[2022.04.23-21.32.01:003][804]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.04.23-21.32.01:004][804]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Substation7_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5AED404725E87BE112E7807D4FBC66029930F0FA), compiling. 
+[2022.04.23-21.32.01:009][804]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.23-21.32.01:009][804]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.23-21.32.01:010][804]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.23-21.32.01:010][804]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.04.23-21.32.01:137][804]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.04.23-21.32.01:137][804]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.04.23-21.32.01:137][804]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.23-21.32.01:137][804]LogSlate: Took 0.001823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.23-21.32.02:222][805]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.23-21.32.02:222][805]LogShaderCompilers: Display: Total job queries 83, among them cache hits 0 (0.00%)
+[2022.04.23-21.32.02:222][805]LogShaderCompilers: Display: Tracking 58 distinct input hashes that result in 49 distinct outputs (84.48%)
+[2022.04.23-21.32.02:222][805]LogShaderCompilers: Display: RAM used: 0.76 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2022.04.23-21.32.02:222][805]LogShaderCompilers: Display: ================================================
+[2022.04.23-21.32.02:789][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.04.23-21.32.49:143][726]Job is a success!
+[2022.04.23-21.32.49:360][727]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.027s
+[2022.04.23-21.32.49:360][727]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.04.23-21.32.49:360][727]LogVolumetricLightmapImport:      BrickData (all levels) 0.6Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2022.04.23-21.32.49:360][727]LogVolumetricLightmapImport:      Bricks at depth
+[2022.04.23-21.32.49:360][727]LogVolumetricLightmapImport:          0: 0.7% covering 100.0% of volume
+[2022.04.23-21.32.49:360][727]LogVolumetricLightmapImport:          1: 10.2% covering 21.9% of volume
+[2022.04.23-21.32.49:360][727]LogVolumetricLightmapImport:          2: 89.1% covering 3.0% of volume
+[2022.04.23-21.32.49:360][727]LogVolumetricLightmapImport:      Bricks in each level
+[2022.04.23-21.32.49:360][727]LogVolumetricLightmapImport:          Museum 			 137 bricks 	 100.0% (Persistent Level)
+[2022.04.23-21.32.50:195][727]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-21.32.50:195][727]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.04.23-21.32.50:195][727]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.23-21.32.50:195][727]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.32.50:195][727]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-21.32.50:195][727]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2022.04.23-21.32.50:195][727]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2022.04.23-21.32.50:195][727]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2022.04.23-21.32.50:195][727]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.23-21.32.50:195][727]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.23-21.32.50:195][727]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.32.50:195][727]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.32.50:282][727]Lightmass on DESKTOP-V1PNENV: 46.4 sec total, 378 ms importing, 116 ms setup, 4.57 sec photons, 41.3 sec processing, 0 ms extra exporting [1240/1240 mappings]. Threads: 7:34 min total, 3:41 min processing.
+[2022.04.23-21.32.50:285][727]LogStaticLightingSystem: Museum_BuiltData storing lightmap data for 109 meshes in 3 LightmapResourceClusters (36.3 Meshes per cluster).
+[2022.04.23-21.32.50:316][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.04.23-21.32.50:363][727]LogStaticLightingSystem: Illumination: 1:01 min (499 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.04.23-21.32.50:363][727]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (4.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2022.04.23-21.32.50:363][727]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.04.23-21.32.50:742][727]DumpUnbuiltLightIteractions
+[2022.04.23-21.32.50:742][727]Lights with unbuilt interactions: 0
+[2022.04.23-21.32.50:742][727]
+[2022.04.23-21.32.50:742][727]Primitives with unbuilt interactions: 0
+[2022.04.23-21.32.50:807][728]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.04.23-21.32.50:808][728]MapCheck: New page: Museum - Apr 23, 2022, 1:32:50 PM
+[2022.04.23-21.32.50:808][728]MapCheck: Warning: desk_2 Static mesh actor has NULL StaticMesh property 
+[2022.04.23-21.32.50:808][728]MapCheck: Warning: desk2 Static mesh actor has NULL StaticMesh property 
+[2022.04.23-21.32.50:808][728]MapCheck: Warning: music_Cue_0 Ambient sound actor has NULL Sound Cue property 
+[2022.04.23-21.32.50:809][728]MapCheck: Warning: Plane5 Plane5 is in the same location as Plane6 
+[2022.04.23-21.32.50:809][728]MapCheck: Warning: Plane6 Plane6 is in the same location as Plane5 
+[2022.04.23-21.32.50:809][728]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 1.365ms to complete.
+[2022.04.23-21.33.07:311][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x345)
+[2022.04.23-21.33.13:904][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x336)
+[2022.04.23-21.33.14:353][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x343)
+[2022.04.23-21.33.16:414][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x342)
+[2022.04.23-21.33.16:520][204]Cmd: EDIT COPY
+[2022.04.23-21.33.16:721][216]Cmd: EDIT PASTE
+[2022.04.23-21.33.31:241][956]LogActorFactory: Actor Factory created desk
+[2022.04.23-21.33.31:699][979]LogActorFactory: Actor Factory created desk
+[2022.04.23-21.33.49:704][953]Cmd: EDIT COPY
+[2022.04.23-21.33.49:872][963]Cmd: EDIT PASTE
+[2022.04.23-21.34.08:355][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.04.23-21.34.08:513][ 32]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Museum31DF9CAA4955A431886C40A4FBB67B31.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum.umap'
+[2022.04.23-21.34.08:533][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Museum_BuiltData" FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum_BuiltData.uasset" SILENT=true
+[2022.04.23-21.34.08:758][ 32]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Museum_BuiltData2763EB8C4F80C616504AFF8F19864B70.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum_BuiltData.uasset'
+[2022.04.23-21.34.08:775][ 32]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.23-21.34.08:775][ 32]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Museum_BuiltData.Museum_BuiltData
+[2022.04.23-21.34.08:776][ 32]LogContentValidation: Display: Validating World /Game/Museum.Museum
+[2022.04.23-21.34.13:656][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.04.23-21.34.13:812][332]Cmd: EDIT COPY
+[2022.04.23-21.34.13:998][343]Cmd: EDIT PASTE
+[2022.04.23-21.34.32:887][314]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane8)
+[2022.04.23-21.34.33:856][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2022.04.23-21.34.34:345][374]Cmd: EDIT COPY
+[2022.04.23-21.34.34:539][380]Cmd: EDIT PASTE
+[2022.04.23-21.34.59:512][611]Cmd: EDIT COPY
+[2022.04.23-21.34.59:737][623]Cmd: EDIT PASTE
+[2022.04.23-21.35.17:507][523]Cmd: EDIT COPY
+[2022.04.23-21.35.17:721][534]Cmd: EDIT PASTE
+[2022.04.23-21.35.30:178][154]Cmd: EDIT COPY
+[2022.04.23-21.35.30:416][168]Cmd: EDIT PASTE
+[2022.04.23-21.35.36:545][460]LogTexture: Display: Building textures: Breaker_System (OODLE_AutoDXT, 1728X2304)
+[2022.04.23-21.35.36:545][460]LogTextureFormatOodle: Display: non-RDO encode 1728 x 2304 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.23-21.35.36:929][478]LogMaterial: Display: Missing cached shadermap for Breaker_System_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F9E3FCA4E406B6997EA582D454BF15E442FCCA2A), compiling. 
+[2022.04.23-21.35.36:957][478]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.23-21.35.36:962][478]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2022.04.23-21.35.36:962][478]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.04.23-21.35.36:962][478]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.04.23-21.35.36:962][478]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2022.04.23-21.35.36:962][478]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.04.23-21.35.36:962][478]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.04.23-21.35.36:962][478]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.04.23-21.35.36:962][478]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2022.04.23-21.35.47:659][938]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.23-21.35.47:659][938]LogShaderCompilers: Display: Total job queries 108, among them cache hits 0 (0.00%)
+[2022.04.23-21.35.47:659][938]LogShaderCompilers: Display: Tracking 59 distinct input hashes that result in 50 distinct outputs (84.75%)
+[2022.04.23-21.35.47:660][938]LogShaderCompilers: Display: RAM used: 0.79 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2022.04.23-21.35.47:660][938]LogShaderCompilers: Display: ================================================
+[2022.04.23-21.36.26:111][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane12)
+[2022.04.23-21.36.26:813][185]Cmd: EDIT COPY
+[2022.04.23-21.36.27:007][196]Cmd: EDIT PASTE
+[2022.04.23-21.36.41:428][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane13)
+[2022.04.23-21.36.52:522][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.04.23-21.36.52:723][617]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Museum95E705C349A3BC1D493C7BB5E38EBF66.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum.umap'
+[2022.04.23-21.36.52:747][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Museum_BuiltData" FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum_BuiltData.uasset" SILENT=true
+[2022.04.23-21.36.53:002][617]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Museum_BuiltData290F80D94D127C95D79B12B8A48E6328.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum_BuiltData.uasset'
+[2022.04.23-21.36.53:021][617]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.23-21.36.53:022][617]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Museum_BuiltData.Museum_BuiltData
+[2022.04.23-21.36.53:022][617]LogContentValidation: Display: Validating World /Game/Museum.Museum
