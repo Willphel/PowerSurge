@@ -1,0 +1,25 @@
+Credits:
+Maximo Perasso - Programmer and Level Design
+Guy Phelps - John H. Wilton, Programmer
+Grayson Green - Music
+
+3D model credits:
+pixorender3d - 3D model Pittsburg California
+Abandoned World - Electric substation
+Nestop - Boiler Valve
+3d_conjurer - Office Chair
+Jinhong Jeong - Pallet truck 
+epilogueronin - Diesel generator
+Jerez Felipe - Many Industrial assets
+SeanNicolas - 60's Office Props
+
+Team Fortress 2 assets from Valve
+- Briefcase model
+- Wrangler model
+
+Portal 2 assets from Valve
+- Cave Johnson 
+- PC Computer
+- Mugs assets
+- Bed
+- Comp, Cube
