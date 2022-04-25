@@ -4577,3 +4577,222 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.25-00.52.03:677][243]LogContentValidation: Display: Validating Material /Game/PowerSurge/substation8_Mat.substation8_Mat
 [2022.04.25-00.52.03:677][243]LogContentValidation: Display: Validating Texture2D /Game/PowerSurge/substation6.substation6
 [2022.04.25-00.52.03:677][243]LogContentValidation: Display: Validating Texture2D /Game/PowerSurge/substation8.substation8
+[2022.04.25-00.52.28:660][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2022.04.25-00.52.40:924][382]LogActorFactory: Actor Factory created computer_1980
+[2022.04.25-00.52.41:679][423]LogActorFactory: Actor Factory created computer_1980
+[2022.04.25-00.52.43:728][507]Cmd: TRANSACTION UNDO
+[2022.04.25-00.52.43:728][507]LogEditorTransaction: Undo Set Scale
+[2022.04.25-00.52.50:834][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (computer_1980)
+[2022.04.25-00.52.53:104][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (desk4)
+[2022.04.25-00.52.53:740][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (computer_1980)
+[2022.04.25-00.52.57:597][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (computer_1980)
+[2022.04.25-00.52.59:402][340]Cmd: EDIT COPY
+[2022.04.25-00.52.59:919][371]Cmd: EDIT PASTE
+[2022.04.25-00.53.05:700][692]Cmd: EDIT COPY
+[2022.04.25-00.53.05:917][705]Cmd: EDIT PASTE
+[2022.04.25-00.53.10:964][959]Cmd: EDIT COPY
+[2022.04.25-00.53.11:162][970]Cmd: EDIT PASTE
+[2022.04.25-00.53.15:374][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (computer_1981)
+[2022.04.25-00.53.23:111][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x335)
+[2022.04.25-00.53.27:280][850]Cmd: TRANSACTION UNDO
+[2022.04.25-00.53.27:281][850]LogEditorTransaction: Undo Scale Actors
+[2022.04.25-00.54.09:443][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (computer_1981)
+[2022.04.25-00.55.14:625][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (computer_1982)
+[2022.04.25-00.55.24:291][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (computer_1983)
+[2022.04.25-00.55.25:089][381]Cmd: DELETE
+[2022.04.25-00.55.25:089][381]Cmd: ACTOR DELETE
+[2022.04.25-00.55.25:100][381]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.25-00.55.25:111][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.04.25-00.55.25:120][381]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2022.04.25-00.55.39:566][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.04.25-00.55.40:567][176]LogSlate: Window 'Save Content' being destroyed
+[2022.04.25-00.55.40:611][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.04.25-00.55.40:792][176]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/Museum257D952D47A4757E86AD2AA5C59F04E1.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum/Museum.umap'
+[2022.04.25-00.55.40:814][176]LogFileHelpers: Saving map 'Museum' took 0.213
+[2022.04.25-00.55.41:168][176]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PowerSurge/Ending1/Ending_1.Ending_1
+[2022.04.25-00.55.41:168][176]Cmd: MAP LOAD FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/PowerSurge/Ending1/Ending_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.25-00.55.41:168][176]LightingResults: New page: Lighting Build
+[2022.04.25-00.55.41:168][176]LoadErrors: New page: Loading map: Ending_1.umap
+[2022.04.25-00.55.41:173][176]LogWorld: UWorld::CleanupWorld for Museum, bSessionEnded=true, bCleanupResources=true
+[2022.04.25-00.55.41:174][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.25-00.55.41:174][176]MapCheck: New page: Map Check
+[2022.04.25-00.55.41:174][176]LightingResults: New page: Lighting Build
+[2022.04.25-00.55.41:186][176]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.25-00.55.41:192][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.25-00.55.41:194][176]LogAudio: Display: Audio Device (ID: 1) registered with world 'Ending_1'.
+[2022.04.25-00.55.41:455][176]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.25-00.55.41:455][176]LogAIModule: Creating AISystem for world Ending_1
+[2022.04.25-00.55.41:474][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.04.25-00.55.41:491][176]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.25-00.55.41:491][176]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.289ms to complete.
+[2022.04.25-00.55.41:491][176]LogFileHelpers: Loading map 'Ending_1' took 0.323
+[2022.04.25-00.55.41:523][176]AssetCheck: New page: Asset Save: Museum
+[2022.04.25-00.55.41:523][176]LogContentValidation: Display: Validating World /Game/Museum/Museum.Museum
+[2022.04.25-00.55.43:078][259]LogEditorViewport: Clicking on Actor (LMB): computer_1980_Blueprint_C (computer_1980_Blueprint)
+[2022.04.25-00.55.55:956][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (desk2)
+[2022.04.25-00.55.56:351][  7]LogEditorViewport: Clicking on Actor (LMB): computer_1980_Blueprint_C (computer_1980_Blueprint)
+[2022.04.25-00.56.00:676][241]LogEditorViewport: Clicking on Actor (LMB): computer_1980_Blueprint_C (computer_1980_Blueprint)
+[2022.04.25-00.56.07:010][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.04.25-00.56.07:050][601]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Museum/Museum.Museum
+[2022.04.25-00.56.07:051][601]Cmd: MAP LOAD FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum/Museum.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.25-00.56.07:051][601]LightingResults: New page: Lighting Build
+[2022.04.25-00.56.07:051][601]LoadErrors: New page: Loading map: Museum.umap
+[2022.04.25-00.56.07:056][601]LogWorld: UWorld::CleanupWorld for Ending_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.25-00.56.07:056][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.25-00.56.07:056][601]MapCheck: New page: Map Check
+[2022.04.25-00.56.07:056][601]LightingResults: New page: Lighting Build
+[2022.04.25-00.56.07:066][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.25-00.56.07:071][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.04.25-00.56.07:073][601]LogAudio: Display: Audio Device (ID: 1) registered with world 'Museum'.
+[2022.04.25-00.56.07:279][601]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.25-00.56.07:280][601]LogAIModule: Creating AISystem for world Museum
+[2022.04.25-00.56.07:297][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.04.25-00.56.07:314][601]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.25-00.56.07:314][601]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.205ms to complete.
+[2022.04.25-00.56.07:314][601]LogFileHelpers: Loading map 'Museum' took 0.264
+[2022.04.25-00.56.09:032][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (computer_1982)
+[2022.04.25-00.56.09:265][714]Cmd: EDIT COPY
+[2022.04.25-00.56.09:449][725]Cmd: EDIT PASTE
+[2022.04.25-00.56.27:765][563]LogMaterial: Display: Missing cached shadermap for MOSHED-2022-3-22-13-20-39_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D1E8B2E81EB1AB0A75C63CF4D1C7FA096FD82140), compiling. 
+[2022.04.25-00.56.27:807][563]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.25-00.56.27:814][563]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.25-00.56.27:814][563]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.25-00.56.27:814][563]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.25-00.56.27:825][563]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.25-00.56.27:889][564]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.04.25-00.56.27:889][564]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.04.25-00.56.27:889][564]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.04.25-00.56.27:889][564]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.04.25-00.56.27:889][564]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.04.25-00.56.27:889][564]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.25-00.56.27:889][564]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.04.25-00.56.30:167][638]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.04.25-00.56.30:167][638]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.25-00.56.30:175][638]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.25-00.56.30:175][638]LogShaderCompilers: Display: Total job queries 377, among them cache hits 41 (10.88%)
+[2022.04.25-00.56.30:175][638]LogShaderCompilers: Display: Tracking 321 distinct input hashes that result in 44 distinct outputs (13.71%)
+[2022.04.25-00.56.30:175][638]LogShaderCompilers: Display: RAM used: 0.83 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2022.04.25-00.56.30:175][638]LogShaderCompilers: Display: ================================================
+[2022.04.25-00.56.31:094][672]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.04.25-00.56.31:094][672]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.25-00.56.48:639][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2022.04.25-00.56.50:126][636]Cmd: EDIT COPY
+[2022.04.25-00.56.52:718][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane9)
+[2022.04.25-00.56.54:844][915]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane10)
+[2022.04.25-00.56.56:388][  5]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane11)
+[2022.04.25-00.56.59:617][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane13)
+[2022.04.25-00.57.01:310][265]Cmd: EDIT COPY
+[2022.04.25-00.57.01:528][278]Cmd: EDIT PASTE
+[2022.04.25-00.57.10:014][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane13)
+[2022.04.25-00.57.12:883][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2022.04.25-00.57.15:702][ 65]Cmd: EDIT COPY
+[2022.04.25-00.57.15:936][ 79]Cmd: EDIT PASTE
+[2022.04.25-00.57.17:263][156]Cmd: TRANSACTION UNDO
+[2022.04.25-00.57.17:263][156]LogEditorTransaction: Undo Move Actors
+[2022.04.25-00.57.18:511][209]Cmd: TRANSACTION UNDO
+[2022.04.25-00.57.18:511][209]LogEditorTransaction: Undo Move Actors
+[2022.04.25-00.57.19:111][244]Cmd: TRANSACTION UNDO
+[2022.04.25-00.57.19:111][244]LogEditorTransaction: Undo Move Actors
+[2022.04.25-00.57.20:872][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2022.04.25-00.57.22:310][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane13)
+[2022.04.25-00.57.23:514][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2022.04.25-00.57.26:104][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x332)
+[2022.04.25-00.57.26:758][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane13)
+[2022.04.25-00.57.28:935][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2022.04.25-00.57.33:257][ 43]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
+[2022.04.25-00.57.49:105][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane15)
+[2022.04.25-00.57.49:537][  1]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane13)
+[2022.04.25-00.57.50:053][ 24]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane14)
+[2022.04.25-00.58.09:809][849]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Downloads\The Future is here....png)
+[2022.04.25-00.58.09:883][849]LogTexture: Display: Building textures: The_Future_is_here___ (OODLE_AutoDXT, 1728X2304)
+[2022.04.25-00.58.10:190][849]LogTextureFormatOodle: Display: non-RDO encode 1728 x 2304 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.25-00.58.33:722][988]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maximo\Desktop\mapofPowerSurge.png)
+[2022.04.25-00.58.33:810][988]LogTexture: Display: Building textures: mapofPowerSurge (OODLE_AutoDXT, 3004X2192)
+[2022.04.25-00.58.34:091][988]LogTextureFormatOodle: Display: non-RDO encode 3004 x 2192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.25-00.58.35:985][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2022.04.25-00.58.36:507][124]Cmd: EDIT COPY
+[2022.04.25-00.58.36:692][135]Cmd: EDIT PASTE
+[2022.04.25-00.58.38:118][180]LogMaterial: Display: Missing cached shadermap for mapofPowerSurge_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2673AB2D301C915E14582613A98DAEE6286EECAF), compiling. 
+[2022.04.25-00.58.38:160][180]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.25-00.58.38:162][180]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.25-00.58.38:162][180]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.25-00.58.38:162][180]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.25-00.58.38:178][180]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.25-00.58.38:182][180]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.04.25-00.58.38:182][180]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.04.25-00.58.38:182][180]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.04.25-00.58.38:182][180]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.04.25-00.58.38:182][180]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.04.25-00.58.38:182][180]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.25-00.58.38:182][180]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.04.25-00.58.40:602][277]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.04.25-00.58.40:602][277]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.25-00.58.41:399][312]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.04.25-00.58.41:400][312]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.25-00.58.58:717][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane16)
+[2022.04.25-00.59.46:501][771]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2022.04.25-00.59.54:931][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x332)
+[2022.04.25-00.59.55:734][304]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2022.04.25-01.00.16:429][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2022.04.25-01.00.25:331][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane9)
+[2022.04.25-01.00.25:819][  4]Cmd: EDIT COPY
+[2022.04.25-01.00.26:036][ 17]Cmd: EDIT PASTE
+[2022.04.25-01.00.27:617][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane9)
+[2022.04.25-01.00.28:978][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane17)
+[2022.04.25-01.00.31:153][270]LogMaterial: Display: Missing cached shadermap for The_Future_is_here____Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9F76E5C783660224D6C43C56A999BDA722671B3D), compiling. 
+[2022.04.25-01.00.31:282][271]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.25-01.00.31:282][271]LogShaderCompilers: Display: Total job queries 409, among them cache hits 57 (13.94%)
+[2022.04.25-01.00.31:282][271]LogShaderCompilers: Display: Tracking 352 distinct input hashes that result in 44 distinct outputs (12.50%)
+[2022.04.25-01.00.31:282][271]LogShaderCompilers: Display: RAM used: 0.83 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2022.04.25-01.00.31:282][271]LogShaderCompilers: Display: ================================================
+[2022.04.25-01.00.38:090][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane10)
+[2022.04.25-01.00.38:668][662]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane9)
+[2022.04.25-01.00.39:680][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane17)
+[2022.04.25-01.00.42:054][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane11)
+[2022.04.25-01.00.45:361][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane9)
+[2022.04.25-01.00.47:422][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane10)
+[2022.04.25-01.00.50:127][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane17)
+[2022.04.25-01.00.52:071][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane10)
+[2022.04.25-01.01.01:764][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane9)
+[2022.04.25-01.01.03:862][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane11)
+[2022.04.25-01.01.06:279][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2022.04.25-01.01.47:062][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.04.25-01.01.48:089][ 80]LogSlate: Window 'Save Content' being destroyed
+[2022.04.25-01.01.48:349][ 80]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/mapofPowerSurgeF71BAB9E402DF5BA30EBC485A98B7E9E.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/PowerSurge/mapofPowerSurge.uasset'
+[2022.04.25-01.01.48:370][ 80]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/mapofPowerSurge_MatC2609F954D19CD0A1D6A2E8E5338132A.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/PowerSurge/mapofPowerSurge_Mat.uasset'
+[2022.04.25-01.01.48:391][ 80]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/MOSHED-2022-3-22-13-20-39_Mat4320EBDE4E79F93A3B44D5BE5B2E3013.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Custom_Materials/Textures/MOSHED-2022-3-22-13-20-39_Mat.uasset'
+[2022.04.25-01.01.48:401][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.04.25-01.01.48:571][ 80]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/MuseumF09660844D4658551E8BBF97DEEDC441.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/Museum/Museum.umap'
+[2022.04.25-01.01.48:594][ 80]LogFileHelpers: Saving map 'Museum' took 0.201
+[2022.04.25-01.01.48:742][ 80]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/The_Future_is_here___0C020FA84DE2AB2425F951947512C6DF.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/PowerSurge/The_Future_is_here___.uasset'
+[2022.04.25-01.01.48:766][ 80]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Saved/The_Future_is_here____Mat75BC46B7444DAFE04921ED9FEB2FA072.tmp' to '../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/PowerSurge/The_Future_is_here____Mat.uasset'
+[2022.04.25-01.01.48:983][ 80]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_3103' invalid (12986 verts, 0 indices).
+[2022.04.25-01.01.48:983][ 80]LogPhysics: Warning: Attempt to build physics data for /Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_3103.BodySetup_0 when we are unable to.
+[2022.04.25-01.01.48:985][ 80]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_3105' invalid (12986 verts, 0 indices).
+[2022.04.25-01.01.48:985][ 80]LogPhysics: Warning: Attempt to build physics data for /Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_3105.BodySetup_0 when we are unable to.
+[2022.04.25-01.01.48:985][ 80]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_3106' invalid (12986 verts, 0 indices).
+[2022.04.25-01.01.48:985][ 80]LogPhysics: Warning: Attempt to build physics data for /Game/PowerSurge/Outside.Outside:PersistentLevel.ModelComponent_3106.BodySetup_0 when we are unable to.
+[2022.04.25-01.01.49:087][ 80]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PowerSurge/Outside.Outside
+[2022.04.25-01.01.49:087][ 80]Cmd: MAP LOAD FILE="../../../../../Users/Maximo/Documents/work and school/ECE-310/Github Desktop/PowerSurge/PowerSurge/Content/PowerSurge/Outside.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.25-01.01.49:087][ 80]LightingResults: New page: Lighting Build
+[2022.04.25-01.01.49:087][ 80]LoadErrors: New page: Loading map: Outside.umap
+[2022.04.25-01.01.49:092][ 80]LogWorld: UWorld::CleanupWorld for Museum, bSessionEnded=true, bCleanupResources=true
+[2022.04.25-01.01.49:092][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.25-01.01.49:092][ 80]MapCheck: New page: Map Check
+[2022.04.25-01.01.49:092][ 80]LightingResults: New page: Lighting Build
+[2022.04.25-01.01.49:108][ 80]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.25-01.01.49:209][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.25-01.01.49:210][ 80]LogAudio: Display: Audio Device (ID: 1) registered with world 'Outside'.
+[2022.04.25-01.01.50:159][ 80]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.25-01.01.50:159][ 80]LogAIModule: Creating AISystem for world Outside
+[2022.04.25-01.01.50:209][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.04.25-01.01.50:228][ 80]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.25-01.01.50:229][ 80]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.345ms to complete.
+[2022.04.25-01.01.50:229][ 80]LogFileHelpers: Loading map 'Outside' took 1.142
+[2022.04.25-01.01.50:293][ 80]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.25-01.01.50:293][ 80]LogContentValidation: Display: Validating Material /Game/PowerSurge/The_Future_is_here____Mat.The_Future_is_here____Mat
+[2022.04.25-01.01.50:293][ 80]LogContentValidation: Display: Validating Material /Game/PowerSurge/mapofPowerSurge_Mat.mapofPowerSurge_Mat
+[2022.04.25-01.01.50:293][ 80]LogContentValidation: Display: Validating Texture2D /Game/PowerSurge/mapofPowerSurge.mapofPowerSurge
+[2022.04.25-01.01.50:293][ 80]LogContentValidation: Display: Validating Texture2D /Game/PowerSurge/The_Future_is_here___.The_Future_is_here___
+[2022.04.25-01.01.50:293][ 80]LogContentValidation: Display: Validating Material /Game/Custom_Materials/Textures/MOSHED-2022-3-22-13-20-39_Mat.MOSHED-2022-3-22-13-20-39_Mat
+[2022.04.25-01.01.50:293][ 80]LogContentValidation: Display: Validating World /Game/Museum/Museum.Museum
